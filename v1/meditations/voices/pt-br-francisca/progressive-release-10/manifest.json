@@ -1,0 +1,454 @@
+{
+  "id": "progressive-release-10",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 325,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Este exercício usa tensão suave e liberação.",
+      "file": "c001.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 2,
+      "text": "Deite-se se puder, ou sente-se com apoio.",
+      "file": "c002.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 3,
+      "text": "Feche os olhos se isso parecer seguro.",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "Nada para forçar. Fique em uma faixa confortável.",
+      "file": "c004.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 5,
+      "text": "Respire lentamente pela narina.",
+      "file": "c005.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 6,
+      "text": "E um sopro mais longo pela boca.",
+      "file": "c006.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 7,
+      "text": "[pausa:19]",
+      "file": "c007.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 8,
+      "text": "Traga atenção para os dois pés.",
+      "file": "c008.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 9,
+      "text": "Dobre os dedos dos pés e aperte os pés.",
+      "file": "c009.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 10,
+      "text": "Segure.",
+      "file": "c010.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 11,
+      "text": "[pausa:19]",
+      "file": "c011.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 12,
+      "text": "Solte.",
+      "file": "c012.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 13,
+      "text": "Sinta a diferença.",
+      "file": "c013.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 14,
+      "text": "[pausa:21]",
+      "file": "c014.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 15,
+      "text": "Aperte as panturrilhas.",
+      "file": "c015.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 16,
+      "text": "Segure.",
+      "file": "c016.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 17,
+      "text": "[pausa:19]",
+      "file": "c017.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 18,
+      "text": "Solte.",
+      "file": "c018.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 19,
+      "text": "Deixe as pernas ficarem pesadas.",
+      "file": "c019.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 20,
+      "text": "[pausa:21]",
+      "file": "c020.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 21,
+      "text": "Aperte as coxas.",
+      "file": "c021.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 22,
+      "text": "Segure.",
+      "file": "c022.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 23,
+      "text": "[pausa:19]",
+      "file": "c023.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 24,
+      "text": "Solte.",
+      "file": "c024.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 25,
+      "text": "Pernas macias. Quadril macio.",
+      "file": "c025.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 26,
+      "text": "[pausa:21]",
+      "file": "c026.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 27,
+      "text": "Dê um leve puxão na barriga.",
+      "file": "c027.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 28,
+      "text": "Segure sem esforço.",
+      "file": "c028.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 29,
+      "text": "[pausa:19]",
+      "file": "c029.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 30,
+      "text": "Solte.",
+      "file": "c030.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 31,
+      "text": "Deixe a barriga mover-se livremente com a respiração.",
+      "file": "c031.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 32,
+      "text": "[pausa:21]",
+      "file": "c032.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 33,
+      "text": "Faça punhos leves. Aperte as mãos e antebraços.",
+      "file": "c033.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 34,
+      "text": "Segure.",
+      "file": "c034.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 35,
+      "text": "[pausa:19]",
+      "file": "c035.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 36,
+      "text": "Solte.",
+      "file": "c036.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 37,
+      "text": "Dedos abertos. Braços pesados.",
+      "file": "c037.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 38,
+      "text": "[pausa:21]",
+      "file": "c038.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 39,
+      "text": "Levante os ombros em direção às orelhas.",
+      "file": "c039.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 40,
+      "text": "Segure.",
+      "file": "c040.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 41,
+      "text": "[pausa:19]",
+      "file": "c041.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 42,
+      "text": "Solte-os.",
+      "file": "c042.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 43,
+      "text": "Sinta espaço na parte superior das costas.",
+      "file": "c043.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 44,
+      "text": "[pausa:21]",
+      "file": "c044.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 45,
+      "text": "Dobre suavemente o rosto. Olhos, testa, mandíbula.",
+      "file": "c045.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 46,
+      "text": "Segure.",
+      "file": "c046.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 47,
+      "text": "[pausa:19]",
+      "file": "c047.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 48,
+      "text": "Solte.",
+      "file": "c048.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 49,
+      "text": "Testa lisa. Mandíbula relaxada. Língua em repouso.",
+      "file": "c049.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 50,
+      "text": "[pausa:23]",
+      "file": "c050.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 51,
+      "text": "Agora tense todo o corpo levemente, como um só.",
+      "file": "c051.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 52,
+      "text": "Segure por um fôlego.",
+      "file": "c052.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 53,
+      "text": "[pausa:35]",
+      "file": "c053.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 54,
+      "text": "Deixe tudo ir.",
+      "file": "c054.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 55,
+      "text": "[pausa:8]",
+      "file": "c055.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 56,
+      "text": "Mais uma vez, uma leve contração de todo o corpo.",
+      "file": "c056.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 57,
+      "text": "Segure por pouco tempo.",
+      "file": "c057.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 58,
+      "text": "[pausa:5]",
+      "file": "c058.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 59,
+      "text": "E solte completamente.",
+      "file": "c059.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 60,
+      "text": "Mais pesado agora. Mais suave agora.",
+      "file": "c060.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 61,
+      "text": "Sinta o corpo se acomodar na superfície abaixo de você.",
+      "file": "c061.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 62,
+      "text": "[pausa:39]",
+      "file": "c062.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 63,
+      "text": "Descanse aqui.",
+      "file": "c063.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 64,
+      "text": "Respiração tranquila. Corpo macio.",
+      "file": "c064.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 65,
+      "text": "Se pensamentos retornarem, tudo bem.",
+      "file": "c065.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 66,
+      "text": "Volte à sensação de liberação.",
+      "file": "c066.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 67,
+      "text": "[pausa:50]",
+      "file": "c067.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 68,
+      "text": "Mantenha-se macio.",
+      "file": "c068.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 69,
+      "text": "[pausa:40]",
+      "file": "c069.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 70,
+      "text": "Mova os dedos das mãos e dos pés.",
+      "file": "c070.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 71,
+      "text": "Respire mais uma vez com calma.",
+      "file": "c071.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 72,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c072.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 73,
+      "text": "Leve essa suavidade com você.",
+      "file": "c073.ogg",
+      "durationSec": 4.56
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 122,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Permaneça sentado. Este é para o meio do trabalho.",
+      "file": "c001.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 2,
+      "text": "Desconecte o olhar da tela por um momento.",
+      "file": "c002.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 3,
+      "text": "Olhe para mais longe, se puder.",
+      "file": "c003.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 4,
+      "text": "[pausa:28]",
+      "file": "c004.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 5,
+      "text": "Role os ombros para cima, para trás e para baixo.",
+      "file": "c005.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 6,
+      "text": "Mais duas vezes.",
+      "file": "c006.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 7,
+      "text": "[pausa:38]",
+      "file": "c007.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 8,
+      "text": "Abra e feche as mãos.",
+      "file": "c008.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 9,
+      "text": "Agite-as levemente.",
+      "file": "c009.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 10,
+      "text": "[pausa:28]",
+      "file": "c010.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 11,
+      "text": "Suavize a testa.",
+      "file": "c011.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 12,
+      "text": "Solte o maxilar. Deixe a língua descansar.",
+      "file": "c012.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 13,
+      "text": "[pausa:38]",
+      "file": "c013.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 14,
+      "text": "Inspire pelos lados das costelas.",
+      "file": "c014.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 15,
+      "text": "Exale e deixe o peito se acalmar.",
+      "file": "c015.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 16,
+      "text": "[pausa:38]",
+      "file": "c016.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 17,
+      "text": "Pisque lentamente três vezes.",
+      "file": "c017.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 18,
+      "text": "[pausa:28]",
+      "file": "c018.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 19,
+      "text": "Mais uma respiração completa.",
+      "file": "c019.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 20,
+      "text": "Retorne quando estiver pronto, um pouco menos tenso.",
+      "file": "c020.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 21,
+      "text": "[pausa:28]",
+      "file": "c021.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 22,
+      "text": "Respire mais uma vez com calma.",
+      "file": "c022.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 23,
+      "text": "Mova os dedos.",
+      "file": "c023.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 24,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c024.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 25,
+      "text": "Leve a leveza de volta à próxima tarefa.",
+      "file": "c025.ogg",
+      "durationSec": 5.928
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "id": "sleep-descent-15",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 186,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo a uma prática para o sono.",
+      "file": "c000.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 1,
+      "text": "Deite-se. Faça da escuridão sua amiga.",
+      "file": "c001.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 2,
+      "text": "Você pode adormecer antes do final. Isso é sucesso.",
+      "file": "c002.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 3,
+      "text": "[pausa:22]",
+      "file": "c003.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 4,
+      "text": "Respiração lenta por nariz.",
+      "file": "c004.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 5,
+      "text": "Exala mais longa.",
+      "file": "c005.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 6,
+      "text": "[pausa:22]",
+      "file": "c006.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 7,
+      "text": "Solte a testa.",
+      "file": "c007.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 8,
+      "text": "[pausa:18]",
+      "file": "c008.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 9,
+      "text": "Solte os olhos.",
+      "file": "c009.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 10,
+      "text": "[pausa:18]",
+      "file": "c010.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 11,
+      "text": "Solte a mandíbula e a língua.",
+      "file": "c011.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 12,
+      "text": "[pausa:22]",
+      "file": "c012.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 13,
+      "text": "Ombros derretendo.",
+      "file": "c013.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 14,
+      "text": "[pausa:22]",
+      "file": "c014.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 15,
+      "text": "Braços pesados. Mãos abertas.",
+      "file": "c015.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 16,
+      "text": "[pausa:22]",
+      "file": "c016.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 17,
+      "text": "Tórax macio. Barriga macia.",
+      "file": "c017.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 18,
+      "text": "[pausa:22]",
+      "file": "c018.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 19,
+      "text": "Quadril pesado.",
+      "file": "c019.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 20,
+      "text": "[pausa:22]",
+      "file": "c020.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 21,
+      "text": "Pernas pesadas. Pés pesados.",
+      "file": "c021.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 22,
+      "text": "[pausa:27]",
+      "file": "c022.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 23,
+      "text": "Todo o corpo afundando na cama.",
+      "file": "c023.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 24,
+      "text": "[pausa:36]",
+      "file": "c024.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 25,
+      "text": "Pensamentos como tráfego distante.",
+      "file": "c025.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 26,
+      "text": "Você não os segue.",
+      "file": "c026.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 27,
+      "text": "[pausa:45]",
+      "file": "c027.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 28,
+      "text": "Respiração mais silenciosa.",
+      "file": "c028.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 29,
+      "text": "[pausa:45]",
+      "file": "c029.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 30,
+      "text": "Mais escuro. Mais suave. Mais lento.",
+      "file": "c030.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 31,
+      "text": "[pausa:67]",
+      "file": "c031.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 32,
+      "text": "Nada para terminar.",
+      "file": "c032.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 33,
+      "text": "[pausa:54]",
+      "file": "c033.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 34,
+      "text": "Seguro para descansar.",
+      "file": "c034.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 35,
+      "text": "[pausa:89]",
+      "file": "c035.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 36,
+      "text": "Seguro para dormir.",
+      "file": "c036.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 37,
+      "text": "[pausa:112]",
+      "file": "c037.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 38,
+      "text": "Se você ainda estiver acordado, continue descansando na expiração.",
+      "file": "c038.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 39,
+      "text": "[pausa:89]",
+      "file": "c039.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 40,
+      "text": "Boa noite.",
+      "file": "c040.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 41,
+      "text": "[pausa:67]",
+      "file": "c041.ogg",
+      "durationSec": 4.368
+    }
+  ]
+}

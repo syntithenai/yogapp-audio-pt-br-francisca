@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-urge-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 223,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Se um desejo está aqui, você está no lugar certo.",
+      "file": "c001.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 2,
+      "text": "Você não precisa combatê-lo nem alimentá-lo.",
+      "file": "c002.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 3,
+      "text": "Encontre uma posição estável, ou fique em pé com os dois pés no chão.",
+      "file": "c003.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 4,
+      "text": "Suavize os olhos, ou mantenha um olhar suave.",
+      "file": "c004.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 5,
+      "text": "Respire lentamente pelo nariz.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "E expire por um tempo mais longo.",
+      "file": "c006.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 7,
+      "text": "[pausa:12]",
+      "file": "c007.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 8,
+      "text": "Nomeie o que está acontecendo, simplesmente.",
+      "file": "c008.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 9,
+      "text": "Um desejo está presente.",
+      "file": "c009.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 10,
+      "text": "É uma onda no corpo e na mente.",
+      "file": "c010.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 11,
+      "text": "Não é um comando.",
+      "file": "c011.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 12,
+      "text": "[pausa:14]",
+      "file": "c012.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 13,
+      "text": "Perceba onde você sente isso.",
+      "file": "c013.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 14,
+      "text": "Peito. Garganta. Mãos. Inquietação.",
+      "file": "c014.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 15,
+      "text": "Não precisa torná-lo maior. Apenas localize-o.",
+      "file": "c015.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 16,
+      "text": "[pausa:16]",
+      "file": "c016.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 17,
+      "text": "Respire nesse lugar.",
+      "file": "c017.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 18,
+      "text": "Inale espaço suave.",
+      "file": "c018.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 19,
+      "text": "Exale sem agir.",
+      "file": "c019.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 20,
+      "text": "[pausa:16]",
+      "file": "c020.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 21,
+      "text": "Os desejos sobem, atingem o pico e caem.",
+      "file": "c021.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 22,
+      "text": "Você é a margem. A onda passa por você.",
+      "file": "c022.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 23,
+      "text": "[pausa:18]",
+      "file": "c023.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 24,
+      "text": "Se a mente oferecer uma história sobre precisar de um cigarro, agradeça e volte.",
+      "file": "c024.ogg",
+      "durationSec": 9.504
+    },
+    {
+      "index": 25,
+      "text": "Volte à respiração.",
+      "file": "c025.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 26,
+      "text": "Volte aos pés no chão.",
+      "file": "c026.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 27,
+      "text": "[pausa:16]",
+      "file": "c027.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 28,
+      "text": "Silenciosamente, se ajudar.",
+      "file": "c028.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 29,
+      "text": "Isso é temporário.",
+      "file": "c029.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 30,
+      "text": "Consigo passar por isso sem fumar.",
+      "file": "c030.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 31,
+      "text": "[pausa:18]",
+      "file": "c031.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 32,
+      "text": "Novamente. Inale suavemente.",
+      "file": "c032.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 33,
+      "text": "Exale mais longo.",
+      "file": "c033.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 34,
+      "text": "[pausa:16]",
+      "file": "c034.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 35,
+      "text": "Perceba qualquer alívio, mesmo que pequeno.",
+      "file": "c035.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 36,
+      "text": "Ou perceba que você permaneceu com você mesmo.",
+      "file": "c036.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 37,
+      "text": "Ambos contam.",
+      "file": "c037.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 38,
+      "text": "[pausa:16]",
+      "file": "c038.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 39,
+      "text": "Você é um não fumante encontrando um velho eco.",
+      "file": "c039.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 40,
+      "text": "O desejo pode visitar. Ele não pode possuí-lo.",
+      "file": "c040.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 41,
+      "text": "[pausa:14]",
+      "file": "c041.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 42,
+      "text": "Dê mais uma respiração fácil.",
+      "file": "c042.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 43,
+      "text": "Mova os dedos.",
+      "file": "c043.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 44,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c044.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 45,
+      "text": "Continue seu dia livre.",
+      "file": "c045.ogg",
+      "durationSec": 4.056
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "id": "morning-energy-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 324,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bom dia.",
+      "file": "c000.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 1,
+      "text": "Bem-vindo a uma prática curta para enfrentar o dia.",
+      "file": "c001.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 2,
+      "text": "Sente-se ereto, ou fique em pé se isso for melhor.",
+      "file": "c002.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 3,
+      "text": "Deixe seus olhos se suavizarem, ou feche-os.",
+      "file": "c003.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 4,
+      "text": "Sinta seus pés no chão.",
+      "file": "c004.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 5,
+      "text": "Respire lentamente pelo nariz.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "E um exalado mais completo pela boca.",
+      "file": "c006.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 7,
+      "text": "Novamente. Inalação suave.",
+      "file": "c007.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 8,
+      "text": "Exalação completa.",
+      "file": "c008.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 9,
+      "text": "Mais uma. Encha o peito.",
+      "file": "c009.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 10,
+      "text": "Esvazie completamente.",
+      "file": "c010.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 11,
+      "text": "[pausa:4]",
+      "file": "c011.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 12,
+      "text": "Olhe para o dia à frente sem apertar.",
+      "file": "c012.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 13,
+      "text": "Você não precisa do mapa inteiro ainda.",
+      "file": "c013.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 14,
+      "text": "Apenas o próximo passo honesto.",
+      "file": "c014.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 15,
+      "text": "[pausa:5]",
+      "file": "c015.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 16,
+      "text": "Inspire por quatro.",
+      "file": "c016.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 17,
+      "text": "Dois. Três. Quatro.",
+      "file": "c017.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 18,
+      "text": "Exale por quatro.",
+      "file": "c018.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 19,
+      "text": "Dois. Três. Quatro.",
+      "file": "c019.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 20,
+      "text": "Novamente, no seu próprio ritmo.",
+      "file": "c020.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 21,
+      "text": "[pausa:6]",
+      "file": "c021.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 22,
+      "text": "Sinta o calor nas mãos.",
+      "file": "c022.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 23,
+      "text": "Sinta a prontidão nas pernas.",
+      "file": "c023.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 24,
+      "text": "[pausa:4]",
+      "file": "c024.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 25,
+      "text": "Role os ombros para cima, para trás e para baixo.",
+      "file": "c025.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 26,
+      "text": "Desfie a mandíbula.",
+      "file": "c026.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 27,
+      "text": "Aqueça o abdômen.",
+      "file": "c027.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 28,
+      "text": "Perceba qualquer resto de sono no corpo.",
+      "file": "c028.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 29,
+      "text": "Não precisa empurrá-lo embora.",
+      "file": "c029.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 30,
+      "text": "Inspire pelas laterais dos ombros.",
+      "file": "c030.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 31,
+      "text": "E deixe-os se estreitarem na expiração.",
+      "file": "c031.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 32,
+      "text": "[pausa:5]",
+      "file": "c032.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 33,
+      "text": "Agora traga um pouco de brilho à respiração.",
+      "file": "c033.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 34,
+      "text": "Inspire como se estivesse acordando do interior.",
+      "file": "c034.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 35,
+      "text": "Exale qualquer coisa pesada do dia anterior.",
+      "file": "c035.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 36,
+      "text": "Inspira possibilidade.",
+      "file": "c036.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 37,
+      "text": "Exala esforço que ainda não é necessário.",
+      "file": "c037.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 38,
+      "text": "[pausa:4]",
+      "file": "c038.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 39,
+      "text": "Coloque uma mão no coração, ou deixe ambas as mãos no colo.",
+      "file": "c039.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 40,
+      "text": "Em silêncio, ou apenas ouvindo, tente estas frases.",
+      "file": "c040.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 41,
+      "text": "Estou aqui.",
+      "file": "c041.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 42,
+      "text": "Começo de novo.",
+      "file": "c042.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 43,
+      "text": "Tenho o suficiente para esta manhã.",
+      "file": "c043.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 44,
+      "text": "[pausa:4]",
+      "file": "c044.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 45,
+      "text": "Movo-me com firmeza.",
+      "file": "c045.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 46,
+      "text": "Enfrento o que vier com a mente clara.",
+      "file": "c046.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 47,
+      "text": "Tenho permissão para ocupar espaço hoje.",
+      "file": "c047.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 48,
+      "text": "[pausa:5]",
+      "file": "c048.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 49,
+      "text": "Escolho uma intenção clara para hoje.",
+      "file": "c049.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 50,
+      "text": "Pode ser simples.",
+      "file": "c050.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 51,
+      "text": "Bondade. Foco. Paciência. Energia.",
+      "file": "c051.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 52,
+      "text": "Mantenha essa palavra por um fôlego.",
+      "file": "c052.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 53,
+      "text": "[pausa:6]",
+      "file": "c053.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 54,
+      "text": "Veja-se movendo-se pela manhã com essa qualidade.",
+      "file": "c054.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 55,
+      "text": "[pausa:5]",
+      "file": "c055.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 56,
+      "text": "[pausa:5]",
+      "file": "c056.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 57,
+      "text": "Estique os dedos bem abertos, depois relaxe.",
+      "file": "c057.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 58,
+      "text": "Levante os cantos da boca um pouco, se isso parecer verdadeiro.",
+      "file": "c058.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 59,
+      "text": "[pausa:3]",
+      "file": "c059.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 60,
+      "text": "Sinta a coluna se alongar na próxima inspiração.",
+      "file": "c060.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 61,
+      "text": "Sinta os ombros se acomodarem na expiração.",
+      "file": "c061.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 62,
+      "text": "Mais um fôlego brilhante de entrada.",
+      "file": "c062.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 63,
+      "text": "E uma longa, fácil expiração.",
+      "file": "c063.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 64,
+      "text": "Mova os dedos.",
+      "file": "c064.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 65,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c065.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 66,
+      "text": "Leve essa energia tranquila para o seu dia.",
+      "file": "c066.ogg",
+      "durationSec": 5.784
+    }
+  ]
+}

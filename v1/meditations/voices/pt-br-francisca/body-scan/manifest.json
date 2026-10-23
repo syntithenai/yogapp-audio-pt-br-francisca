@@ -1,0 +1,148 @@
+{
+  "id": "body-scan",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 144,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Vamos percorrer suavemente o corpo.",
+      "file": "c000.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 1,
+      "text": "Deite-se ou sente-se com conforto.",
+      "file": "c001.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 2,
+      "text": "Feche os olhos se isso parecer seguro.",
+      "file": "c002.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 3,
+      "text": "Comece pela coroa da cabeça.",
+      "file": "c003.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 4,
+      "text": "Perceba qualquer sensação ali. Calor. Frescor. Nada de nada.",
+      "file": "c004.ogg",
+      "durationSec": 9.024
+    },
+    {
+      "index": 5,
+      "text": "Não há necessidade de mudar. Apenas observe.",
+      "file": "c005.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 6,
+      "text": "Mova-se suavemente para a testa e os olhos.",
+      "file": "c006.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 7,
+      "text": "Deixe os músculos pequenos ao redor dos olhos relaxar.",
+      "file": "c007.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 8,
+      "text": "Sinta a mandíbula. Solte se puder.",
+      "file": "c008.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 9,
+      "text": "Língua repousando levemente.",
+      "file": "c009.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 10,
+      "text": "Ombros. Eles estão levantados? Deixe-os cair um pouco.",
+      "file": "c010.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 11,
+      "text": "Braços pesados. Mãos abertas ou relaxadas.",
+      "file": "c011.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 12,
+      "text": "Peito subindo e descendo com a respiração.",
+      "file": "c012.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 13,
+      "text": "Barriga macia. Sem forçar.",
+      "file": "c013.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 14,
+      "text": "Quadris e pélvis descansando.",
+      "file": "c014.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 15,
+      "text": "Coxas. Joelhos. Pernas inferiores.",
+      "file": "c015.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 16,
+      "text": "Pés. Plantas dos pés tocando o chão ou o tapete.",
+      "file": "c016.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 17,
+      "text": "Agora sinta todo o corpo como um campo único de consciência.",
+      "file": "c017.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 18,
+      "text": "Respiração movendo-se por ele.",
+      "file": "c018.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 19,
+      "text": "Se um ponto tenso aparecer, envie uma exalação gentil para lá.",
+      "file": "c019.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 20,
+      "text": "Fique por três respirações tranquilas.",
+      "file": "c020.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 21,
+      "text": "Quando estiver pronto, mexa os dedos das mãos e dos pés.",
+      "file": "c021.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 22,
+      "text": "Abra os olhos. Retorne suavemente.",
+      "file": "c022.ogg",
+      "durationSec": 6.072
+    }
+  ]
+}

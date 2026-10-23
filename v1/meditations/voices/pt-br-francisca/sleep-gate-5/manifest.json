@@ -1,0 +1,148 @@
+{
+  "id": "sleep-gate-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 102,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Esta prática é para a borda do sono.",
+      "file": "c000.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 1,
+      "text": "Apague as luzes. Deite-se.",
+      "file": "c001.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 2,
+      "text": "Nada mais para terminar neste momento.",
+      "file": "c002.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 3,
+      "text": "[pausa:24]",
+      "file": "c003.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 4,
+      "text": "Inspire suavemente.",
+      "file": "c004.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 5,
+      "text": "Exale por mais tempo.",
+      "file": "c005.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 6,
+      "text": "[pausa:24]",
+      "file": "c006.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 7,
+      "text": "Solte a testa.",
+      "file": "c007.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 8,
+      "text": "Solte os olhos.",
+      "file": "c008.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 9,
+      "text": "Solte a mandíbula.",
+      "file": "c009.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 10,
+      "text": "[pausa:29]",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "Arms pesados. Pernas pesadas.",
+      "file": "c011.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 12,
+      "text": "[pausa:29]",
+      "file": "c012.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 13,
+      "text": "Se os pensamentos visitarem, deixe-os passar como carros da noite.",
+      "file": "c013.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 14,
+      "text": "Você permanece com a respiração.",
+      "file": "c014.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 15,
+      "text": "[pausa:45]",
+      "file": "c015.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 16,
+      "text": "Corpo afundando.",
+      "file": "c016.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 17,
+      "text": "Respiração calma.",
+      "file": "c017.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 18,
+      "text": "[pausa:45]",
+      "file": "c018.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 19,
+      "text": "Se o sono vier, deixe vir.",
+      "file": "c019.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 20,
+      "text": "Se não vier, repouse de qualquer forma.",
+      "file": "c020.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 21,
+      "text": "[pausa:35]",
+      "file": "c021.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 22,
+      "text": "Boa noite ao dia.",
+      "file": "c022.ogg",
+      "durationSec": 3.672
+    }
+  ]
+}

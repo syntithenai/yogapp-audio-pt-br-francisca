@@ -1,0 +1,250 @@
+{
+  "id": "heart-space-10",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 187,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Tome tempo para chegar.",
+      "file": "c001.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 2,
+      "text": "Sente-se ou deite-se com apoio.",
+      "file": "c002.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 3,
+      "text": "Feche os olhos se isso parecer seguro.",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "Sinta o contato com o chão.",
+      "file": "c004.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 5,
+      "text": "Respiração lenta para dentro.",
+      "file": "c005.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 6,
+      "text": "Respiração longa para fora.",
+      "file": "c006.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 7,
+      "text": "[pausa:25]",
+      "file": "c007.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 8,
+      "text": "Novamente.",
+      "file": "c008.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 9,
+      "text": "[pausa:25]",
+      "file": "c009.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 10,
+      "text": "Deixe os ombros caírem.",
+      "file": "c010.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 11,
+      "text": "Deixe a barriga amolecer.",
+      "file": "c011.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 12,
+      "text": "[pausa:31]",
+      "file": "c012.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 13,
+      "text": "Traga a atenção para o centro do peito.",
+      "file": "c013.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 14,
+      "text": "Sem forçar o sentimento. Apenas localizando o espaço.",
+      "file": "c014.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 15,
+      "text": "[pausa:31]",
+      "file": "c015.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 16,
+      "text": "Respire como se a inspiração entrasse pelo coração.",
+      "file": "c016.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 17,
+      "text": "Como se a expiração suavizasse o coração por dentro.",
+      "file": "c017.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 18,
+      "text": "[pausa:37]",
+      "file": "c018.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 19,
+      "text": "Se uma emoção surgir, deixe-a mover-se como o tempo.",
+      "file": "c019.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 20,
+      "text": "[pausa:37]",
+      "file": "c020.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 21,
+      "text": "Silenciosamente: que meu coração esteja em paz.",
+      "file": "c021.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 22,
+      "text": "[pausa:31]",
+      "file": "c022.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 23,
+      "text": "Que eu seja paciente com meu próprio ritmo.",
+      "file": "c023.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 24,
+      "text": "[pausa:31]",
+      "file": "c024.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 25,
+      "text": "Imagine alguém fácil de cuidar.",
+      "file": "c025.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 26,
+      "text": "Deseje-lhe paz.",
+      "file": "c026.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 27,
+      "text": "Que você esteja em paz.",
+      "file": "c027.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 28,
+      "text": "[pausa:37]",
+      "file": "c028.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 29,
+      "text": "Retorne ao seu próprio espaço do coração.",
+      "file": "c029.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 30,
+      "text": "Quente. Espaçoso. Humano.",
+      "file": "c030.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 31,
+      "text": "[pausa:75]",
+      "file": "c031.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 32,
+      "text": "Descanse aqui.",
+      "file": "c032.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 33,
+      "text": "[pausa:90]",
+      "file": "c033.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 34,
+      "text": "[pausa:37]",
+      "file": "c034.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 35,
+      "text": "Comece a aprofundar a respiração.",
+      "file": "c035.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 36,
+      "text": "Sinta novamente o ambiente.",
+      "file": "c036.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 37,
+      "text": "Mova os dedos das mãos e dos pés.",
+      "file": "c037.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 38,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c038.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 39,
+      "text": "Mova-se lentamente para o que vem a seguir.",
+      "file": "c039.ogg",
+      "durationSec": 5.376
+    }
+  ]
+}

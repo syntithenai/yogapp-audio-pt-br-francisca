@@ -1,0 +1,142 @@
+{
+  "id": "post-practice-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 100,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Você praticou. Agora deixe o corpo receber isso.",
+      "file": "c001.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 2,
+      "text": "Deite-se ou sente-se com facilidade.",
+      "file": "c002.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 3,
+      "text": "Feche os olhos.",
+      "file": "c003.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 4,
+      "text": "[pausa:31]",
+      "file": "c004.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 5,
+      "text": "Procure por calor, vibração ou cansaço silencioso.",
+      "file": "c005.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 6,
+      "text": "Sem julgamento. Apenas observe.",
+      "file": "c006.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 7,
+      "text": "[pausa:45]",
+      "file": "c007.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 8,
+      "text": "Exala longa.",
+      "file": "c008.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 9,
+      "text": "Mais uma vez.",
+      "file": "c009.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 10,
+      "text": "[pausa:38]",
+      "file": "c010.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 11,
+      "text": "Agradeça ao corpo por estar presente.",
+      "file": "c011.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 12,
+      "text": "[pausa:31]",
+      "file": "c012.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 13,
+      "text": "Deixe o esforço escorrer para o chão.",
+      "file": "c013.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 14,
+      "text": "[pausa:45]",
+      "file": "c014.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 15,
+      "text": "Uma respiração clara para dentro.",
+      "file": "c015.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 16,
+      "text": "Uma respiração completa para fora.",
+      "file": "c016.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 17,
+      "text": "[pausa:38]",
+      "file": "c017.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 18,
+      "text": "Respire mais uma vez com calma.",
+      "file": "c018.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 19,
+      "text": "Mova os dedos.",
+      "file": "c019.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 20,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c020.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 21,
+      "text": "Leve um pouco disso com você.",
+      "file": "c021.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

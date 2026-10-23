@@ -1,0 +1,352 @@
+{
+  "id": "cove-shore-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 339,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Assuma uma posição confortável, ou deite-se se isso parecer melhor.",
+      "file": "c001.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 2,
+      "text": "Deixe as mãos em repouso.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "Permita que seus olhos se fechem, ou suavize o olhar.",
+      "file": "c003.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 4,
+      "text": "Perceba o peso do seu corpo sendo sustentado.",
+      "file": "c004.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 5,
+      "text": "Respire lentamente pelo nariz.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "E um exale mais longo e fácil.",
+      "file": "c006.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 7,
+      "text": "Novamente. Inalação suave.",
+      "file": "c007.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 8,
+      "text": "Exalação suave.",
+      "file": "c008.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 9,
+      "text": "Se os pensamentos vagarem, tudo bem. Volte para a respiração.",
+      "file": "c009.ogg",
+      "durationSec": 7.992
+    },
+    {
+      "index": 10,
+      "text": "Veja-se chegando a uma enseada protegida.",
+      "file": "c010.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 11,
+      "text": "Falésias curvam-se ao redor de areia macia e pálida.",
+      "file": "c011.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 12,
+      "text": "O mar move-se em ondas baixas e pacientes.",
+      "file": "c012.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 13,
+      "text": "Um sol suave aquece o topo dos seus ombros.",
+      "file": "c013.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 14,
+      "text": "Uma brisa salgada refresca seus lábios e pálpebras.",
+      "file": "c014.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 15,
+      "text": "Sinta a frescura do ar preenchendo seu peito.",
+      "file": "c015.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 16,
+      "text": "Ande até a linha d'água. A areia úmida abraça seus pés.",
+      "file": "c016.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 17,
+      "text": "Espuma fresca toca seus tornozelos e desaparece.",
+      "file": "c017.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 18,
+      "text": "O ritmo é simples. Chegue. Afrouxe. Parta.",
+      "file": "c018.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 19,
+      "text": "Sente-se onde a areia seca está quente sob você.",
+      "file": "c019.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 20,
+      "text": "Incline-se sobre as mãos. Sinta o calor granulado.",
+      "file": "c020.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 21,
+      "text": "Ouça o silêncio e o barulho da enseada.",
+      "file": "c021.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 22,
+      "text": "Sinta o cheiro de sal, sol e pedra limpa.",
+      "file": "c022.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 23,
+      "text": "Calor na pele. Frescor em cada inspiração.",
+      "file": "c023.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 24,
+      "text": "Lá longe, a luz brilha como uma risada silenciosa.",
+      "file": "c024.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 25,
+      "text": "Você não precisa persegui-la. Ela já está aqui.",
+      "file": "c025.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 26,
+      "text": "Uma onda avança mais, refresca seus dedos dos pés, e recua.",
+      "file": "c026.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 27,
+      "text": "A areia quente recupera seus pés.",
+      "file": "c027.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 28,
+      "text": "Deixe sua respiração mover-se com as ondas — lenta na inspiração, mais longa na expiração.",
+      "file": "c028.ogg",
+      "durationSec": 10.704
+    },
+    {
+      "index": 29,
+      "text": "A paz é a própria enseada. Você está dentro dela.",
+      "file": "c029.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 30,
+      "text": "Descanse sua atenção no calor entre suas omoplatas.",
+      "file": "c030.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 31,
+      "text": "E no ar salgado fresco na ponta do nariz.",
+      "file": "c031.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 32,
+      "text": "Trace a linha das falésias com imaginação suave.",
+      "file": "c032.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 33,
+      "text": "Pedra aquecida pelo dia. Sombra fresca nas dobras.",
+      "file": "c033.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 34,
+      "text": "Uma poça de mar por perto contém um pequeno mundo claro.",
+      "file": "c034.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 35,
+      "text": "Você não precisa se inclinar. Saber que está lá é suficiente.",
+      "file": "c035.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 36,
+      "text": "Outra onda. Pés frios. Areia quente. Respiração suave.",
+      "file": "c036.ogg",
+      "durationSec": 9.336
+    },
+    {
+      "index": 37,
+      "text": "A enseada continua oferecendo a mesma simplicidade gentil.",
+      "file": "c037.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 38,
+      "text": "Receba isso mais uma vez antes de partir.",
+      "file": "c038.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 39,
+      "text": "Agora descanse apenas na respiração por um tempo.",
+      "file": "c039.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 40,
+      "text": "Inspire lentamente.",
+      "file": "c040.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 41,
+      "text": "Exale lentamente.",
+      "file": "c041.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 42,
+      "text": "Inspire.",
+      "file": "c042.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 43,
+      "text": "Exale.",
+      "file": "c043.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 44,
+      "text": "Sinta o calor onde o corpo estiver quente.",
+      "file": "c044.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 45,
+      "text": "Sinta a frescura onde o ar estiver frio.",
+      "file": "c045.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 46,
+      "text": "Inspire.",
+      "file": "c046.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 47,
+      "text": "Exale.",
+      "file": "c047.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 48,
+      "text": "Nenhum lugar para ir. Nada para consertar.",
+      "file": "c048.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 49,
+      "text": "Inspire.",
+      "file": "c049.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 50,
+      "text": "Exale.",
+      "file": "c050.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 51,
+      "text": "Descanse aqui por algumas respirações tranquilas.",
+      "file": "c051.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 52,
+      "text": "Saiba que você pode voltar a este lugar a qualquer momento.",
+      "file": "c052.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 53,
+      "text": "Quando estiver pronto, aprofunde a respiração.",
+      "file": "c053.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 54,
+      "text": "Mova os dedos das mãos e dos pés.",
+      "file": "c054.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 55,
+      "text": "Abra os olhos suavemente.",
+      "file": "c055.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 56,
+      "text": "Leve um pouco dessa paz com você.",
+      "file": "c056.ogg",
+      "durationSec": 4.8
+    }
+  ]
+}

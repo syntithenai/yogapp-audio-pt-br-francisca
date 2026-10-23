@@ -1,0 +1,172 @@
+{
+  "id": "loving-kindness",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 130,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Sente-se confortavelmente. Relaxe o rosto.",
+      "file": "c000.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 1,
+      "text": "Coloque uma mão sobre o coração, se isso ajudar.",
+      "file": "c001.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 2,
+      "text": "Ofereceremos frases simples de bondade.",
+      "file": "c002.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 3,
+      "text": "Primeiro, para si mesmo.",
+      "file": "c003.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 4,
+      "text": "Repita silenciosamente comigo, ou apenas ouça.",
+      "file": "c004.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 5,
+      "text": "Que eu esteja seguro.",
+      "file": "c005.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 6,
+      "text": "Que eu esteja bem.",
+      "file": "c006.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 7,
+      "text": "Que eu esteja em paz.",
+      "file": "c007.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 8,
+      "text": "Diga-as novamente, lentamente.",
+      "file": "c008.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 9,
+      "text": "Que eu esteja seguro.",
+      "file": "c009.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 10,
+      "text": "Que eu esteja bem.",
+      "file": "c010.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 11,
+      "text": "Que eu esteja em paz.",
+      "file": "c011.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 12,
+      "text": "Se isso parecer difícil, tudo bem. Fique com o desejo em si.",
+      "file": "c012.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 13,
+      "text": "Agora traga à mente alguém que é fácil de cuidar.",
+      "file": "c013.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 14,
+      "text": "Um amigo, um animal de estimação, um estranho gentil.",
+      "file": "c014.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 15,
+      "text": "Imagine-o brevemente.",
+      "file": "c015.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 16,
+      "text": "Que você esteja seguro.",
+      "file": "c016.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 17,
+      "text": "Que você esteja bem.",
+      "file": "c017.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 18,
+      "text": "Que você esteja em paz.",
+      "file": "c018.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 19,
+      "text": "Mais uma vez.",
+      "file": "c019.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 20,
+      "text": "Que você esteja seguro.",
+      "file": "c020.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 21,
+      "text": "Que você esteja bem.",
+      "file": "c021.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 22,
+      "text": "Que você esteja em paz.",
+      "file": "c022.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 23,
+      "text": "Sinta qualquer calor que surgir. Ou simplesmente repouse nas palavras.",
+      "file": "c023.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 24,
+      "text": "Volte à sua própria respiração.",
+      "file": "c024.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 25,
+      "text": "Agradeça a si mesmo por praticar.",
+      "file": "c025.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 26,
+      "text": "Abra os olhos suavemente.",
+      "file": "c026.ogg",
+      "durationSec": 4.224
+    }
+  ]
+}

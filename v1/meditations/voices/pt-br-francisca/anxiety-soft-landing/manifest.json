@@ -1,0 +1,154 @@
+{
+  "id": "anxiety-soft-landing",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 140,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Se você se sentir ativado ou preocupado, você é bem-vindo aqui.",
+      "file": "c000.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 1,
+      "text": "Você não precisa se sentir calmo ainda.",
+      "file": "c001.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 2,
+      "text": "Apenas siga junto.",
+      "file": "c002.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 3,
+      "text": "Coloque os dois pés no chão, se puder.",
+      "file": "c003.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 4,
+      "text": "Sinta o contato. Calcanhares. Bolas dos pés. Dedos.",
+      "file": "c004.ogg",
+      "durationSec": 9.456
+    },
+    {
+      "index": 5,
+      "text": "Pressione suavemente. Observe a pressão de volta do chão.",
+      "file": "c005.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 6,
+      "text": "Nomeie cinco coisas que você pode ver.",
+      "file": "c006.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 7,
+      "text": "Silenciosamente. Sem pressa.",
+      "file": "c007.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 8,
+      "text": "Nomeie quatro coisas que você pode tocar.",
+      "file": "c008.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 9,
+      "text": "Roupa. Cadeira. Ar na pele.",
+      "file": "c009.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 10,
+      "text": "Nomeie três sons, próximos ou distantes.",
+      "file": "c010.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 11,
+      "text": "Nomeie dois cheiros, ou simplesmente perceba o ar.",
+      "file": "c011.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 12,
+      "text": "Nomeie um sabor, ou a sensação na boca.",
+      "file": "c012.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 13,
+      "text": "Você está aqui. Neste corpo. Nesta sala.",
+      "file": "c013.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 14,
+      "text": "Agora respire por quatro.",
+      "file": "c014.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 15,
+      "text": "Mantenha suavemente por dois.",
+      "file": "c015.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 16,
+      "text": "Exale por seis.",
+      "file": "c016.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 17,
+      "text": "Novamente, se quiser.",
+      "file": "c017.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 18,
+      "text": "Coloque uma mão no peito ou na barriga.",
+      "file": "c018.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 19,
+      "text": "Sinta o movimento sob sua mão.",
+      "file": "c019.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 20,
+      "text": "A ansiedade ainda pode estar presente. Isso é permitido.",
+      "file": "c020.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 21,
+      "text": "Você deu ao sistema nervoso um pouso mais suave.",
+      "file": "c021.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 22,
+      "text": "Respire mais uma vez.",
+      "file": "c022.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 23,
+      "text": "Quando estiver pronto, abra os olhos e continue seu dia.",
+      "file": "c023.ogg",
+      "durationSec": 7.2
+    }
+  ]
+}

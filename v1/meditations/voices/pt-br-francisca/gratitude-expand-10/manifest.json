@@ -1,0 +1,238 @@
+{
+  "id": "gratitude-expand-10",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 179,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Tome tempo para chegar.",
+      "file": "c001.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 2,
+      "text": "Sente-se ou deite-se com apoio.",
+      "file": "c002.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 3,
+      "text": "Feche os olhos se isso parecer seguro.",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "Sinta o contato com o chão.",
+      "file": "c004.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 5,
+      "text": "Respiração lenta e profunda.",
+      "file": "c005.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 6,
+      "text": "Respiração longa e lenta.",
+      "file": "c006.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 7,
+      "text": "[pausa:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 8,
+      "text": "Mais uma vez.",
+      "file": "c008.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 9,
+      "text": "[pausa:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 10,
+      "text": "Deixe os ombros caírem.",
+      "file": "c010.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 11,
+      "text": "Deixe a barriga amolecer.",
+      "file": "c011.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 12,
+      "text": "[pausa:34]",
+      "file": "c012.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 13,
+      "text": "Comece com uma pequena coisa boa concreta.",
+      "file": "c013.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 14,
+      "text": "Mantenha. Agradeça.",
+      "file": "c014.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 15,
+      "text": "[pausa:40]",
+      "file": "c015.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 16,
+      "text": "Uma segunda. Uma pessoa, lugar ou conforto.",
+      "file": "c016.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 17,
+      "text": "Obrigado.",
+      "file": "c017.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 18,
+      "text": "[pausa:40]",
+      "file": "c018.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 19,
+      "text": "Uma terceira. Algo sobre seu corpo que está funcionando hoje.",
+      "file": "c019.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 20,
+      "text": "Obrigado.",
+      "file": "c020.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 21,
+      "text": "[pausa:40]",
+      "file": "c021.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 22,
+      "text": "Amplie para as pessoas que foram gentis, mesmo que por pouco tempo.",
+      "file": "c022.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 23,
+      "text": "[pausa:54]",
+      "file": "c023.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 24,
+      "text": "Amplie para o lugar em que você está. Abrigo. Ar. Solo.",
+      "file": "c024.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 25,
+      "text": "[pausa:54]",
+      "file": "c025.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 26,
+      "text": "Se a gratidão parecer difícil, agradeça ao esforço de aparecer.",
+      "file": "c026.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 27,
+      "text": "Isso conta.",
+      "file": "c027.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 28,
+      "text": "[pausa:40]",
+      "file": "c028.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 29,
+      "text": "Descanse na qualquer calor que surgiu.",
+      "file": "c029.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 30,
+      "text": "Ou descanse na própria intenção.",
+      "file": "c030.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 31,
+      "text": "[pausa:90]",
+      "file": "c031.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 32,
+      "text": "[pausa:40]",
+      "file": "c032.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 33,
+      "text": "Comece a aprofundar a respiração.",
+      "file": "c033.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 34,
+      "text": "Sinta novamente a sala.",
+      "file": "c034.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 35,
+      "text": "Mova os dedos das mãos e dos pés.",
+      "file": "c035.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 36,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c036.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 37,
+      "text": "Mova-se lentamente para o que vem a seguir.",
+      "file": "c037.ogg",
+      "durationSec": 5.376
+    }
+  ]
+}

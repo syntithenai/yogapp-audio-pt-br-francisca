@@ -1,0 +1,250 @@
+{
+  "id": "self-compassion-10",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 188,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Tome tempo para chegar.",
+      "file": "c001.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 2,
+      "text": "Sente-se ou deite-se com apoio.",
+      "file": "c002.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 3,
+      "text": "Feche os olhos se isso parecer seguro.",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "Sinta o contato com o chão.",
+      "file": "c004.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 5,
+      "text": "Respiração lenta e profunda.",
+      "file": "c005.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 6,
+      "text": "Exalação mais longa.",
+      "file": "c006.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 7,
+      "text": "[pausa:26]",
+      "file": "c007.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 8,
+      "text": "Mais uma vez.",
+      "file": "c008.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 9,
+      "text": "[pausa:26]",
+      "file": "c009.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 10,
+      "text": "Deixe os ombros baixarem.",
+      "file": "c010.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 11,
+      "text": "Deixe a barriga relaxar.",
+      "file": "c011.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 12,
+      "text": "[pausa:32]",
+      "file": "c012.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 13,
+      "text": "Coloque a mão no coração, se isso ajudar.",
+      "file": "c013.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 14,
+      "text": "Observe seu estado sem julgamento.",
+      "file": "c014.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 15,
+      "text": "[pausa:32]",
+      "file": "c015.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 16,
+      "text": "Este é um momento de sofrimento, ou de tensão humana comum.",
+      "file": "c016.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 17,
+      "text": "Outros também sentem isso.",
+      "file": "c017.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 18,
+      "text": "[pausa:39]",
+      "file": "c018.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 19,
+      "text": "Que eu possa ser gentil comigo mesmo neste momento.",
+      "file": "c019.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 20,
+      "text": "[pausa:32]",
+      "file": "c020.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 21,
+      "text": "Que eu possa aceitar a mim mesmo como sou.",
+      "file": "c021.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 22,
+      "text": "[pausa:32]",
+      "file": "c022.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 23,
+      "text": "Que eu possa dar a mim mesmo a compaixão de que preciso.",
+      "file": "c023.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 24,
+      "text": "[pausa:39]",
+      "file": "c024.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 25,
+      "text": "Repita as frases que ressoam. Deixe as que não ressoam.",
+      "file": "c025.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 26,
+      "text": "[pausa:52]",
+      "file": "c026.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 27,
+      "text": "Imagine-se falando consigo mesmo como um amigo sábio faria.",
+      "file": "c027.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 28,
+      "text": "Que tom eles usariam?",
+      "file": "c028.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 29,
+      "text": "Ofereça a si mesmo esse tom agora.",
+      "file": "c029.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 30,
+      "text": "[pausa:65]",
+      "file": "c030.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 31,
+      "text": "Inspire bondade.",
+      "file": "c031.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 32,
+      "text": "Expire a dureza.",
+      "file": "c032.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 33,
+      "text": "[pausa:78]",
+      "file": "c033.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 34,
+      "text": "[pausa:39]",
+      "file": "c034.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 35,
+      "text": "Comece a aprofundar a respiração.",
+      "file": "c035.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 36,
+      "text": "Sinta novamente a sala.",
+      "file": "c036.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 37,
+      "text": "Mova os dedos das mãos e dos pés.",
+      "file": "c037.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 38,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c038.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 39,
+      "text": "Mova-se lentamente para o que vem a seguir.",
+      "file": "c039.ogg",
+      "durationSec": 5.376
+    }
+  ]
+}

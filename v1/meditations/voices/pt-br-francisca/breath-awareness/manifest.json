@@ -1,0 +1,148 @@
+{
+  "id": "breath-awareness",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 121,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Acomode-se em uma postura estável.",
+      "file": "c000.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 1,
+      "text": "Coluna ereta, mas não rígida.",
+      "file": "c001.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 2,
+      "text": "Traga atenção para a respiração como ela já é.",
+      "file": "c002.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 3,
+      "text": "Não a mude ainda. Apenas observe.",
+      "file": "c003.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 4,
+      "text": "Sinta a frescura da inalação nas narinas.",
+      "file": "c004.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 5,
+      "text": "Sinta o calor da exalação.",
+      "file": "c005.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 6,
+      "text": "Ou perceba a subida e descida da barriga.",
+      "file": "c006.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 7,
+      "text": "Escolha um lugar para focar sua atenção.",
+      "file": "c007.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 8,
+      "text": "Quando a mente se desviar, volte gentilmente.",
+      "file": "c008.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 9,
+      "text": "Sem julgamento. Apenas volte.",
+      "file": "c009.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 10,
+      "text": "Agora, se parecer fácil, conte ciclos suaves.",
+      "file": "c010.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 11,
+      "text": "Inale. Um.",
+      "file": "c011.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 12,
+      "text": "Exale. Um.",
+      "file": "c012.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 13,
+      "text": "Inale. Dois.",
+      "file": "c013.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 14,
+      "text": "Exale. Dois.",
+      "file": "c014.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 15,
+      "text": "Continue até cinco, depois comece novamente em um.",
+      "file": "c015.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 16,
+      "text": "Se perder a contagem, recomece com gentileza.",
+      "file": "c016.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 17,
+      "text": "O retorno é a prática.",
+      "file": "c017.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 18,
+      "text": "Deixe a respiração ser natural. Sem esforço.",
+      "file": "c018.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 19,
+      "text": "Mais alguns ciclos em silêncio.",
+      "file": "c019.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 20,
+      "text": "Libere a contagem.",
+      "file": "c020.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 21,
+      "text": "Descanse em consciência aberta por um momento.",
+      "file": "c021.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 22,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c022.ogg",
+      "durationSec": 5.424
+    }
+  ]
+}

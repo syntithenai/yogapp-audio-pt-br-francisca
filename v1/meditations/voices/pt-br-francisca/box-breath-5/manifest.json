@@ -1,0 +1,238 @@
+{
+  "id": "box-breath-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 176,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Encontre uma posição confortável, ou deite-se se isso parecer melhor.",
+      "file": "c001.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 2,
+      "text": "Deixe as mãos em repouso.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "Amoleça os olhos, ou feche-os.",
+      "file": "c003.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente.",
+      "file": "c004.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 5,
+      "text": "E expire por um tempo mais longo.",
+      "file": "c005.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 6,
+      "text": "Vamos respirar em um quadrado simples.",
+      "file": "c006.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 7,
+      "text": "Inale por quatro. Segure por quatro. Exale por quatro. Segure por quatro.",
+      "file": "c007.ogg",
+      "durationSec": 10.704
+    },
+    {
+      "index": 8,
+      "text": "Mantenha suave. Nunca force.",
+      "file": "c008.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 9,
+      "text": "[pausa:20]",
+      "file": "c009.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 10,
+      "text": "Inale. Dois. Três. Quatro.",
+      "file": "c010.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 11,
+      "text": "Segure. Dois. Três. Quatro.",
+      "file": "c011.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 12,
+      "text": "Exale. Dois. Três. Quatro.",
+      "file": "c012.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 13,
+      "text": "Segure. Dois. Três. Quatro.",
+      "file": "c013.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 14,
+      "text": "[pausa:20]",
+      "file": "c014.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 15,
+      "text": "Mais uma vez. Inale.",
+      "file": "c015.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 16,
+      "text": "Segure.",
+      "file": "c016.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 17,
+      "text": "Exale.",
+      "file": "c017.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 18,
+      "text": "Segure.",
+      "file": "c018.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 19,
+      "text": "[pausa:26]",
+      "file": "c019.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 20,
+      "text": "Continue com sua própria contagem por algumas rodadas.",
+      "file": "c020.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 21,
+      "text": "Se quatro for muito longo, use três.",
+      "file": "c021.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 22,
+      "text": "[pausa:45]",
+      "file": "c022.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 23,
+      "text": "Mais uma caixa completa.",
+      "file": "c023.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 24,
+      "text": "Inale.",
+      "file": "c024.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 25,
+      "text": "Segure.",
+      "file": "c025.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 26,
+      "text": "Exale.",
+      "file": "c026.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 27,
+      "text": "Segure.",
+      "file": "c027.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 28,
+      "text": "[pausa:26]",
+      "file": "c028.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 29,
+      "text": "Retorne à respiração natural.",
+      "file": "c029.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 30,
+      "text": "Observe o silêncio que se segue.",
+      "file": "c030.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 31,
+      "text": "[pausa:33]",
+      "file": "c031.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 32,
+      "text": "Descanse aqui.",
+      "file": "c032.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 33,
+      "text": "[pausa:33]",
+      "file": "c033.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 34,
+      "text": "Respire mais uma vez com calma.",
+      "file": "c034.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 35,
+      "text": "Mova os dedos.",
+      "file": "c035.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 36,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c036.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 37,
+      "text": "Leve um pouco disso com você.",
+      "file": "c037.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

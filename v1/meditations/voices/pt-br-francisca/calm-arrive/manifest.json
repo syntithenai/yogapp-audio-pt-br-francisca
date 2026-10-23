@@ -1,0 +1,136 @@
+{
+  "id": "calm-arrive",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 103,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Tome um momento para chegar.",
+      "file": "c001.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 2,
+      "text": "Encontre uma posição confortável, ou deite-se se isso parecer melhor.",
+      "file": "c002.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 3,
+      "text": "Deixe suas mãos descansar.",
+      "file": "c003.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 4,
+      "text": "Permita que seus olhos se fechem, ou suavize seu olhar.",
+      "file": "c004.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 5,
+      "text": "Perceba que você está aqui.",
+      "file": "c005.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 6,
+      "text": "Nada para consertar agora.",
+      "file": "c006.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 7,
+      "text": "Nada para completar.",
+      "file": "c007.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 8,
+      "text": "Respire lentamente pelo nariz.",
+      "file": "c008.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 9,
+      "text": "E um exalado mais longo.",
+      "file": "c009.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 10,
+      "text": "Novamente. Inalação suave.",
+      "file": "c010.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 11,
+      "text": "Exalação suave.",
+      "file": "c011.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 12,
+      "text": "Sinta o peso do seu corpo sendo sustentado.",
+      "file": "c012.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 13,
+      "text": "O chão, a cadeira, a terra te sustentando.",
+      "file": "c013.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 14,
+      "text": "Se os pensamentos vagarem, tudo bem.",
+      "file": "c014.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 15,
+      "text": "Apenas perceba e retorne a esta respiração.",
+      "file": "c015.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 16,
+      "text": "Inale. Chegue.",
+      "file": "c016.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 17,
+      "text": "Exale. Acomode-se.",
+      "file": "c017.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 18,
+      "text": "Mais uma respiração fácil.",
+      "file": "c018.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 19,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c019.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 20,
+      "text": "Leve essa calma com você.",
+      "file": "c020.ogg",
+      "durationSec": 4.2
+    }
+  ]
+}

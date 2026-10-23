@@ -1,0 +1,154 @@
+{
+  "id": "evening-wind-down",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 134,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Esta prática é para o final do dia.",
+      "file": "c000.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 1,
+      "text": "Apague as luzes, se possível.",
+      "file": "c001.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 2,
+      "text": "Deite-se ou recoste-se com apoio.",
+      "file": "c002.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 3,
+      "text": "Deixe o dia terminar, mesmo que a mente ainda liste tarefas.",
+      "file": "c003.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 4,
+      "text": "Você pode deixá-las de lado por agora.",
+      "file": "c004.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 5,
+      "text": "Inspire suavemente por uma contagem de quatro.",
+      "file": "c005.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 6,
+      "text": "Exale por uma contagem de seis.",
+      "file": "c006.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 7,
+      "text": "Novamente. Quatro dentro. Seis fora.",
+      "file": "c007.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 8,
+      "text": "Exalações mais longas dizem ao corpo que é seguro descansar.",
+      "file": "c008.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 9,
+      "text": "Verifique tensão residual no rosto.",
+      "file": "c009.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 10,
+      "text": "Amoleça a testa. Amoleça a mandíbula.",
+      "file": "c010.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 11,
+      "text": "Afaste os ombros das orelhas.",
+      "file": "c011.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 12,
+      "text": "Imagine o dia se assentando como poeira após uma brisa.",
+      "file": "c012.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 13,
+      "text": "O que aconteceu, aconteceu.",
+      "file": "c013.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 14,
+      "text": "O que permanece pode esperar até a manhã.",
+      "file": "c014.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 15,
+      "text": "Sinta o colchão ou o chão sustentando você.",
+      "file": "c015.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 16,
+      "text": "Respiração mais suave. Corpo mais pesado.",
+      "file": "c016.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 17,
+      "text": "Se o sono vier, deixe-o vir.",
+      "file": "c017.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 18,
+      "text": "Se não vier, repouse nesta suavidade de qualquer forma.",
+      "file": "c018.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 19,
+      "text": "Mais três respirações lentas.",
+      "file": "c019.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 20,
+      "text": "Inhale. Exhale.",
+      "file": "c020.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 21,
+      "text": "Inhale. Exhale.",
+      "file": "c021.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 22,
+      "text": "Inhale. Exhale.",
+      "file": "c022.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 23,
+      "text": "Boa noite ao dia. Paz à noite.",
+      "file": "c023.ogg",
+      "durationSec": 5.568
+    }
+  ]
+}
