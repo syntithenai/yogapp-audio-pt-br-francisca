@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-clear-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 231,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Esta é uma prática de respiração clara.",
+      "file": "c001.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 2,
+      "text": "Encontre uma posição confortável, ou deite-se se isso parecer melhor.",
+      "file": "c002.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 3,
+      "text": "Deixe as mãos descansar.",
+      "file": "c003.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 4,
+      "text": "Amoleça os olhos, ou feche-os.",
+      "file": "c004.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 5,
+      "text": "Respire lentamente pelo nariz.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "E um exalado mais longo.",
+      "file": "c006.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 7,
+      "text": "[pausa:10]",
+      "file": "c007.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 8,
+      "text": "Perceba o ar como ele é.",
+      "file": "c008.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 9,
+      "text": "Frio na inspiração.",
+      "file": "c009.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 10,
+      "text": "Quente na expiração.",
+      "file": "c010.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 11,
+      "text": "Sem fumaça. Sem veneno. Apenas respiração.",
+      "file": "c011.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 12,
+      "text": "[pausa:12]",
+      "file": "c012.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 13,
+      "text": "Sinta o peito expandir sem esforço.",
+      "file": "c013.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 14,
+      "text": "Sinta as costelas se alargando um pouco.",
+      "file": "c014.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 15,
+      "text": "[pausa:12]",
+      "file": "c015.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 16,
+      "text": "Coloque uma mão no coração, ou deixe ambas as mãos no colo.",
+      "file": "c016.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 17,
+      "text": "Sinta um corpo que está se curando.",
+      "file": "c017.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 18,
+      "text": "Pulmões se limpando. Sangue mais livre. O sentido do olfato retornando, dia após dia.",
+      "file": "c018.ogg",
+      "durationSec": 11.928
+    },
+    {
+      "index": 19,
+      "text": "[pausa:16]",
+      "file": "c019.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 20,
+      "text": "Tente silenciosamente essas frases, ou apenas ouça.",
+      "file": "c020.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 21,
+      "text": "Minha respiração pertence a mim.",
+      "file": "c021.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 22,
+      "text": "[pausa:12]",
+      "file": "c022.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 23,
+      "text": "Escolho ar limpo.",
+      "file": "c023.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 24,
+      "text": "[pausa:12]",
+      "file": "c024.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 25,
+      "text": "Terminei com esse veneno.",
+      "file": "c025.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 26,
+      "text": "[pausa:14]",
+      "file": "c026.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 27,
+      "text": "Imagine seu próximo momento comum sem um cigarro.",
+      "file": "c027.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 28,
+      "text": "Café. Um passeio. Uma pausa após uma refeição.",
+      "file": "c028.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 29,
+      "text": "Veja-se completo naquele momento, já livre.",
+      "file": "c029.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 30,
+      "text": "[pausa:22]",
+      "file": "c030.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 31,
+      "text": "Se uma lembrança de fumar aparecer, deixe que seja uma imagem, não um plano.",
+      "file": "c031.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 32,
+      "text": "Volte a esta inspiração.",
+      "file": "c032.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 33,
+      "text": "Volte a esta expiração.",
+      "file": "c033.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 34,
+      "text": "[pausa:14]",
+      "file": "c034.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 35,
+      "text": "Respire liberdade.",
+      "file": "c035.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 36,
+      "text": "Exale a história do velho hábito.",
+      "file": "c036.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 37,
+      "text": "[pausa:14]",
+      "file": "c037.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 38,
+      "text": "Você tomou a decisão que importa.",
+      "file": "c038.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 39,
+      "text": "Seu corpo está se adaptando àquela verdade.",
+      "file": "c039.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 40,
+      "text": "[pausa:12]",
+      "file": "c040.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 41,
+      "text": "Faça mais um suspiro claro pela narina.",
+      "file": "c041.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 42,
+      "text": "E respire fundo e com facilidade para fora.",
+      "file": "c042.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 43,
+      "text": "Mexe os dedos.",
+      "file": "c043.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 44,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c044.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 45,
+      "text": "Leve esse ar puro consigo.",
+      "file": "c045.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

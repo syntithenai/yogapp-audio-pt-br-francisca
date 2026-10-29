@@ -1,0 +1,202 @@
+{
+  "id": "soft-belly-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 152,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Encontre uma posição confortável, ou deite-se se isso parecer melhor.",
+      "file": "c001.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 2,
+      "text": "Deixe as mãos em repouso.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "Amoleça os olhos, ou feche-os.",
+      "file": "c003.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente pelo nariz.",
+      "file": "c004.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 5,
+      "text": "E expire por um tempo mais longo.",
+      "file": "c005.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 6,
+      "text": "Coloque uma mão na barriga inferior, se quiser.",
+      "file": "c006.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 7,
+      "text": "Perceba se a barriga está tensionada.",
+      "file": "c007.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 8,
+      "text": "[pausa:20]",
+      "file": "c008.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 9,
+      "text": "Na próxima inspiração, permita que a barriga se expanda.",
+      "file": "c009.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 10,
+      "text": "Na expiração, deixe-a cair sem apertar.",
+      "file": "c010.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 11,
+      "text": "[pausa:20]",
+      "file": "c011.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 12,
+      "text": "Novamente. Barriga mole para dentro.",
+      "file": "c012.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 13,
+      "text": "Barriga mole para fora.",
+      "file": "c013.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 14,
+      "text": "[pausa:25]",
+      "file": "c014.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 15,
+      "text": "Se a mente discutir, deixe o corpo liderar.",
+      "file": "c015.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 16,
+      "text": "Expansão. Liberação.",
+      "file": "c016.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 17,
+      "text": "[pausa:29]",
+      "file": "c017.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 18,
+      "text": "Omoplatas caem.",
+      "file": "c018.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 19,
+      "text": "Maxilar relaxado.",
+      "file": "c019.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 20,
+      "text": "Barriga livre.",
+      "file": "c020.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 21,
+      "text": "[pausa:25]",
+      "file": "c021.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 22,
+      "text": "Permaneça com dez respirações suaves e tranquilas da barriga.",
+      "file": "c022.ogg",
+      "durationSec": 7.992
+    },
+    {
+      "index": 23,
+      "text": "[pausa:45]",
+      "file": "c023.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 24,
+      "text": "Observe qualquer leveza que chegou.",
+      "file": "c024.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 25,
+      "text": "[pausa:20]",
+      "file": "c025.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 26,
+      "text": "Descanse aqui.",
+      "file": "c026.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 27,
+      "text": "[pausa:27]",
+      "file": "c027.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 28,
+      "text": "Respire mais uma vez com facilidade.",
+      "file": "c028.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 29,
+      "text": "Mova os dedos.",
+      "file": "c029.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 30,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c030.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 31,
+      "text": "Leve um pouco disso com você.",
+      "file": "c031.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

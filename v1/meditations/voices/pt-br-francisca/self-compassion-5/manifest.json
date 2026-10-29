@@ -1,0 +1,178 @@
+{
+  "id": "self-compassion-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 141,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Encontre uma posição confortável, ou deite-se se isso parecer melhor.",
+      "file": "c001.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 2,
+      "text": "Deixe as mãos descansarem.",
+      "file": "c002.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 3,
+      "text": "Amoleça os olhos, ou feche-os.",
+      "file": "c003.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente pela narina.",
+      "file": "c004.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 5,
+      "text": "E um sopro mais longo pela boca.",
+      "file": "c005.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 6,
+      "text": "Coloque uma mão no coração, ou deixe ambas as mãos no colo.",
+      "file": "c006.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 7,
+      "text": "Perceba como você está, sem tentar consertar.",
+      "file": "c007.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 8,
+      "text": "[pausa:31]",
+      "file": "c008.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 9,
+      "text": "Se houver dificuldade, reconheça-a.",
+      "file": "c009.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 10,
+      "text": "Este é um momento de dificuldade.",
+      "file": "c010.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 11,
+      "text": "A dificuldade faz parte da condição humana.",
+      "file": "c011.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 12,
+      "text": "[pausa:39]",
+      "file": "c012.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 13,
+      "text": "Ofereça a si mesmo bondade da mesma forma que ofereceria a um amigo.",
+      "file": "c013.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 14,
+      "text": "Que eu seja gentil comigo mesmo.",
+      "file": "c014.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 15,
+      "text": "Que eu me dê a compaixão de que preciso.",
+      "file": "c015.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 16,
+      "text": "[pausa:39]",
+      "file": "c016.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 17,
+      "text": "Novamente, lentamente.",
+      "file": "c017.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 18,
+      "text": "Que eu seja gentil comigo mesmo.",
+      "file": "c018.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 19,
+      "text": "Que eu me dê a compaixão de que preciso.",
+      "file": "c019.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 20,
+      "text": "[pausa:45]",
+      "file": "c020.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 21,
+      "text": "Respire na mão sobre o coração, se ela estiver lá.",
+      "file": "c021.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 22,
+      "text": "[pausa:39]",
+      "file": "c022.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 23,
+      "text": "Você não precisa ganhar essa suavidade.",
+      "file": "c023.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 24,
+      "text": "Dê mais uma respiração tranquila.",
+      "file": "c024.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 25,
+      "text": "Mova os dedos.",
+      "file": "c025.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 26,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c026.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 27,
+      "text": "Leve um pouco disso com você.",
+      "file": "c027.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

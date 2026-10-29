@@ -1,0 +1,184 @@
+{
+  "id": "gratitude-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 148,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Encontre uma posição confortável, ou deite-se se isso parecer melhor.",
+      "file": "c001.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 2,
+      "text": "Deixe as mãos descansar.",
+      "file": "c002.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 3,
+      "text": "Suavize os olhos, ou feche-os.",
+      "file": "c003.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente pelo nariz.",
+      "file": "c004.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 5,
+      "text": "E expire por um tempo mais longo.",
+      "file": "c005.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 6,
+      "text": "Traga à mente uma pequena coisa que o ajudou hoje, ou nesta semana.",
+      "file": "c006.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 7,
+      "text": "Pode ser algo comum. Água quente. Uma mensagem. Luz em uma parede.",
+      "file": "c007.ogg",
+      "durationSec": 10.008
+    },
+    {
+      "index": 8,
+      "text": "[pausa:21]",
+      "file": "c008.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 9,
+      "text": "Mantenha isso suavemente na consciência.",
+      "file": "c009.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 10,
+      "text": "Observe qualquer suavização no peito ou no rosto.",
+      "file": "c010.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 11,
+      "text": "[pausa:26]",
+      "file": "c011.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 12,
+      "text": "Silenciosamente, agradeça a essa coisa.",
+      "file": "c012.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 13,
+      "text": "Obrigado por estar aqui.",
+      "file": "c013.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 14,
+      "text": "[pausa:21]",
+      "file": "c014.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 15,
+      "text": "Agora uma segunda coisa. Outra pequena coisa boa.",
+      "file": "c015.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 16,
+      "text": "[pausa:26]",
+      "file": "c016.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 17,
+      "text": "Obrigado.",
+      "file": "c017.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 18,
+      "text": "[pausa:15]",
+      "file": "c018.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 19,
+      "text": "E mais uma. Uma terceira.",
+      "file": "c019.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 20,
+      "text": "[pausa:26]",
+      "file": "c020.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 21,
+      "text": "Deixe a gratidão ser simples. Não forçada. Apenas percebida.",
+      "file": "c021.ogg",
+      "durationSec": 9.144
+    },
+    {
+      "index": 22,
+      "text": "[pausa:31]",
+      "file": "c022.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 23,
+      "text": "Descanse nesse calor por algumas respirações.",
+      "file": "c023.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 24,
+      "text": "[pausa:41]",
+      "file": "c024.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 25,
+      "text": "Respire mais uma vez com calma.",
+      "file": "c025.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 26,
+      "text": "Mova os dedos.",
+      "file": "c026.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 27,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c027.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 28,
+      "text": "Leve um pouco disso com você.",
+      "file": "c028.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

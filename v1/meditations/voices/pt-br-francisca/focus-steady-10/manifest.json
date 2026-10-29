@@ -1,0 +1,274 @@
+{
+  "id": "focus-steady-10",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 188,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Pegue seu tempo para chegar aqui.",
+      "file": "c001.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 2,
+      "text": "Sente-se ou deite com suporte.",
+      "file": "c002.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 3,
+      "text": "Feche os olhos se isso sentir-se seguro.",
+      "file": "c003.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 4,
+      "text": "Sinta o contato com o chão.",
+      "file": "c004.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 5,
+      "text": "Respire devagar pela entrada.",
+      "file": "c005.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 6,
+      "text": "Exale mais lentamente.",
+      "file": "c006.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 7,
+      "text": "[pausa:21]",
+      "file": "c007.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 8,
+      "text": "Novamente.",
+      "file": "c008.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 9,
+      "text": "[pausa:21]",
+      "file": "c009.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 10,
+      "text": "Deixe os ombros cair.",
+      "file": "c010.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 11,
+      "text": "Deixe o abdômen se suavizar.",
+      "file": "c011.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 12,
+      "text": "[pausa:26]",
+      "file": "c012.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 13,
+      "text": "Escolha a respiração nas narinas como seu ponto de foco.",
+      "file": "c013.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 14,
+      "text": "Permaneça com o sentimento do ar.",
+      "file": "c014.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 15,
+      "text": "[pausa:26]",
+      "file": "c015.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 16,
+      "text": "Conte cada expiração de um a dez.",
+      "file": "c016.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 17,
+      "text": "Se perder o conto, comece novamente do número um sem culpa.",
+      "file": "c017.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 18,
+      "text": "[pausa:21]",
+      "file": "c018.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 19,
+      "text": "Um.",
+      "file": "c019.ogg",
+      "durationSec": 2.304
+    },
+    {
+      "index": 20,
+      "text": "[pausa:21]",
+      "file": "c020.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 21,
+      "text": "Dois.",
+      "file": "c021.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 22,
+      "text": "[pausa:21]",
+      "file": "c022.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 23,
+      "text": "Três.",
+      "file": "c023.ogg",
+      "durationSec": 2.424
+    },
+    {
+      "index": 24,
+      "text": "[pausa:21]",
+      "file": "c024.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 25,
+      "text": "Quatro.",
+      "file": "c025.ogg",
+      "durationSec": 2.424
+    },
+    {
+      "index": 26,
+      "text": "[pausa:21]",
+      "file": "c026.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 27,
+      "text": "Cinco.",
+      "file": "c027.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 28,
+      "text": "[pausa:21]",
+      "file": "c028.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 29,
+      "text": "Continue silenciosamente até dez, depois comece de um.",
+      "file": "c029.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 30,
+      "text": "[pausa:90]",
+      "file": "c030.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 31,
+      "text": "Libere a contagem.",
+      "file": "c031.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 32,
+      "text": "Descanse na atenção pura sobre a respiração.",
+      "file": "c032.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 33,
+      "text": "[pausa:79]",
+      "file": "c033.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 34,
+      "text": "Clareza sem rigidez.",
+      "file": "c034.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 35,
+      "text": "[pausa:42]",
+      "file": "c035.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 36,
+      "text": "[pausa:32]",
+      "file": "c036.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 37,
+      "text": "Comece a aprofundar a respiração.",
+      "file": "c037.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 38,
+      "text": "Descanse aqui.",
+      "file": "c038.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 39,
+      "text": "[pausa:44]",
+      "file": "c039.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 40,
+      "text": "Sinta o ambiente novamente.",
+      "file": "c040.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 41,
+      "text": "Mova os dedos das mãos e dos pés.",
+      "file": "c041.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 42,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c042.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 43,
+      "text": "Mova-se lentamente para o que vem a seguir.",
+      "file": "c043.ogg",
+      "durationSec": 5.376
+    }
+  ]
+}

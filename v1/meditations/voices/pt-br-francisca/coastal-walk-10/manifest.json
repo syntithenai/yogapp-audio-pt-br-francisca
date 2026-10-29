@@ -1,0 +1,616 @@
+{
+  "id": "coastal-walk-10",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 608,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Encontre uma postura que não exija nada de você.",
+      "file": "c001.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 2,
+      "text": "Sente-se ou deite, com qualquer suporte que precise.",
+      "file": "c002.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 3,
+      "text": "Deixe as mãos repousarem abertas ou leves.",
+      "file": "c003.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 4,
+      "text": "Permita os olhos fecharem, ou mantenha um olhar suave.",
+      "file": "c004.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 5,
+      "text": "Sinta os lugares onde seu corpo toca o chão.",
+      "file": "c005.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 6,
+      "text": "Os calcanhares, as nádegas, a parte traseira da cabeça ou a extensão da coluna.",
+      "file": "c006.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 7,
+      "text": "Nada para sustentar neste momento.",
+      "file": "c007.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 8,
+      "text": "Respire devagar pela narina.",
+      "file": "c008.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 9,
+      "text": "Sinta o frio do ar chegando.",
+      "file": "c009.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 10,
+      "text": "E respire mais lentamente ao expelir.",
+      "file": "c010.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 11,
+      "text": "Sinta o calor da expiração saindo.",
+      "file": "c011.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 12,
+      "text": "Novamente. Inalação suave.",
+      "file": "c012.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 13,
+      "text": "Exala sem pressa.",
+      "file": "c013.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 14,
+      "text": "Deixe os ombros cair um pouco.",
+      "file": "c014.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 15,
+      "text": "Deixe a mandíbula relaxar.",
+      "file": "c015.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 16,
+      "text": "Deixe o abdômen ser macio.",
+      "file": "c016.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 17,
+      "text": "Permaneça com três respirações quietas, exatamente como são.",
+      "file": "c017.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 18,
+      "text": "Inale. Chegue.",
+      "file": "c018.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 19,
+      "text": "Exale. Ajuste-se.",
+      "file": "c019.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 20,
+      "text": "Se a mente se desviar, observe com gentileza e volte para esta respiração.",
+      "file": "c020.ogg",
+      "durationSec": 9.84
+    },
+    {
+      "index": 21,
+      "text": "Veja um caminho costeiro ao longo de falésias baixas.",
+      "file": "c021.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 22,
+      "text": "O oceano respira abaixo em ondas longas e estáveis.",
+      "file": "c022.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 23,
+      "text": "A luz solar aquece a coroa da sua cabeça e o meio do seu nariz.",
+      "file": "c023.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 24,
+      "text": "A brisa salgada refresca seus olhos com uma luminosidade vibrante.",
+      "file": "c024.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 25,
+      "text": "Sinta o cheiro do mar — mineral, limpo, desperto.",
+      "file": "c025.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 26,
+      "text": "Você caminha devagar. As gramíneas inclinam-se para dentro com a brisa.",
+      "file": "c026.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 27,
+      "text": "Sinta o sol em uma bochecha, ar fresco na outra.",
+      "file": "c027.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 28,
+      "text": "Esse contraste é, por si só, um tipo de calma.",
+      "file": "c028.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 29,
+      "text": "Um degrau de madeira desce em direção a uma praia escondida.",
+      "file": "c029.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 30,
+      "text": "Cada passo é firme. Sua mão repousa em um corrimão envelhecido.",
+      "file": "c030.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 31,
+      "text": "Madeira quente sob sua palma.",
+      "file": "c031.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 32,
+      "text": "No fundo, a areia recebe seus pés como um sim suave.",
+      "file": "c032.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 33,
+      "text": "Caminhe até onde as ondas escrevem e apagam linhas brancas.",
+      "file": "c033.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 34,
+      "text": "Água fria envolve seus tornozelos.",
+      "file": "c034.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 35,
+      "text": "Areia quente mais acima da costa aguarda quando você recuar.",
+      "file": "c035.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 36,
+      "text": "Sente-se. Entrelace as mãos nas grãos aquecidos pelo sol.",
+      "file": "c036.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 37,
+      "text": "Sinta essa calor seco contra a areia úmida e fria abaixo.",
+      "file": "c037.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 38,
+      "text": "Observe a luz quebrar-se sobre a água aberta.",
+      "file": "c038.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 39,
+      "text": "Respire o frescor da brisa.",
+      "file": "c039.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 40,
+      "text": "Solte qualquer tensão ainda retida nos membros torácicos.",
+      "file": "c040.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 41,
+      "text": "Um gaio grita uma vez e se torna parte do silêncio.",
+      "file": "c041.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 42,
+      "text": "Deite-se de costas. Feche os olhos.",
+      "file": "c042.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 43,
+      "text": "Calor sobre seu peito. Sombra fria do solo aos lados.",
+      "file": "c043.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 44,
+      "text": "O ritmo da maré ensina seu coração a se acalmar.",
+      "file": "c044.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 45,
+      "text": "Você é pequeno de maneira perfeita — abraçado por algo vasto e gentil.",
+      "file": "c045.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 46,
+      "text": "Permaneça com o calor do sol sobre seus olhos fechados.",
+      "file": "c046.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 47,
+      "text": "Permaneça com o beijo frio da brisa em sua pele quando o vento mudar.",
+      "file": "c047.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 48,
+      "text": "A paz não está aonde quer que seja. Está nesta costa, neste suspiro, neste corpo.",
+      "file": "c048.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 49,
+      "text": "Afunde um pouco mais os calcanhares na areia quente.",
+      "file": "c049.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 50,
+      "text": "Sinta como a terra responde com apoio firme.",
+      "file": "c050.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 51,
+      "text": "Respire a frescura salgada até o fundo dos pulmões.",
+      "file": "c051.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 52,
+      "text": "Exale qualquer coisa que tenha estado se preparando para o impacto.",
+      "file": "c052.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 53,
+      "text": "Não há impacto aqui. Apenas a chegada após a chegada das ondas.",
+      "file": "c053.ogg",
+      "durationSec": 8.448
+    },
+    {
+      "index": 54,
+      "text": "Deixe cinco respirações seguir o mesmo ritmo paciente.",
+      "file": "c054.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 55,
+      "text": "Então repouse no resplendor do sol na pele.",
+      "file": "c055.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 56,
+      "text": "Levante-se e caminhe um pouco pela linha d'água.",
+      "file": "c056.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 57,
+      "text": "Pé esquerdo frio e molhado. Pé direito quente e seco. Então troque.",
+      "file": "c057.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 58,
+      "text": "O corpo aprende o contraste como conforto, não como conflito.",
+      "file": "c058.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 59,
+      "text": "Pegue uma pedra lisa aquecida pela luz.",
+      "file": "c059.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 60,
+      "text": "Sinta seu calor na palma da mão. Sua densidade. Sua quietude.",
+      "file": "c060.ogg",
+      "durationSec": 9.504
+    },
+    {
+      "index": 61,
+      "text": "Coloque-a no chão com gratidão — não há necessidade de guardá-la.",
+      "file": "c061.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 62,
+      "text": "O guardar está no interior.",
+      "file": "c062.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 63,
+      "text": "Olhe além das quebras para cores mais calmas.",
+      "file": "c063.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 64,
+      "text": "Respire como se pudesse saborear o azul.",
+      "file": "c064.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 65,
+      "text": "Brisa fresca. Bochecha quente. Barriga macia.",
+      "file": "c065.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 66,
+      "text": "Deixe a próxima inspiração ser a mais profunda da prática.",
+      "file": "c066.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 67,
+      "text": "Deixe a expiração esvaziar sem força.",
+      "file": "c067.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 68,
+      "text": "A enseada, o penhasco, o caminho de volta para casa — tudo espera sem pressão.",
+      "file": "c068.ogg",
+      "durationSec": 9.648
+    },
+    {
+      "index": 69,
+      "text": "Agora deixe a história descansar e permaneça com a sensação.",
+      "file": "c069.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 70,
+      "text": "Inale a frescura deste lugar.",
+      "file": "c070.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 71,
+      "text": "Exale em sua calor e quietude.",
+      "file": "c071.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 72,
+      "text": "Inale.",
+      "file": "c072.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 73,
+      "text": "Exale.",
+      "file": "c073.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 74,
+      "text": "Novamente. Inale suavemente.",
+      "file": "c074.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 75,
+      "text": "Exale mais devagar.",
+      "file": "c075.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 76,
+      "text": "Sinta o corpo sustentado pelo chão deste mundo imaginário.",
+      "file": "c076.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 77,
+      "text": "Inale.",
+      "file": "c077.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 78,
+      "text": "Exale.",
+      "file": "c078.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 79,
+      "text": "Se os pensamentos vagarem, volte para o calor na pele.",
+      "file": "c079.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 80,
+      "text": "Ou para o ar frio no nariz.",
+      "file": "c080.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 81,
+      "text": "Inale.",
+      "file": "c081.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 82,
+      "text": "Exale.",
+      "file": "c082.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 83,
+      "text": "Inale.",
+      "file": "c083.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 84,
+      "text": "Exale.",
+      "file": "c084.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 85,
+      "text": "Permaneça. Aqueça. Continue.",
+      "file": "c085.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 86,
+      "text": "Inale.",
+      "file": "c086.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 87,
+      "text": "Exale.",
+      "file": "c087.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 88,
+      "text": "Mais um ciclo fácil.",
+      "file": "c088.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 89,
+      "text": "Inale.",
+      "file": "c089.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 90,
+      "text": "Exale.",
+      "file": "c090.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 91,
+      "text": "Permaneça nesse sentimento por mais algumas respirações.",
+      "file": "c091.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 92,
+      "text": "Calor. Maciez. Suficiência.",
+      "file": "c092.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 93,
+      "text": "Você pode retornar a este lugar sempre que precisar.",
+      "file": "c093.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 94,
+      "text": "Ele existe em sua atenção, não apenas na imaginação.",
+      "file": "c094.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 95,
+      "text": "Comece a respirar mais profundamente.",
+      "file": "c095.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 96,
+      "text": "Sinta o ambiente ao seu redor novamente.",
+      "file": "c096.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 97,
+      "text": "Mexe os dedos. Aqueça os pés.",
+      "file": "c097.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 98,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c098.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 99,
+      "text": "Dê mais uma respiração fácil.",
+      "file": "c099.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 100,
+      "text": "Leve essa calma para o que vier a seguir.",
+      "file": "c100.ogg",
+      "durationSec": 5.208
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "id": "deep-rest-20",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 446,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo a uma prática de descanso profundo.",
+      "file": "c000.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 1,
+      "text": "Deite-se de costas, se possível.",
+      "file": "c001.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 2,
+      "text": "Apoie a cabeça e os joelhos, se isso ajudar.",
+      "file": "c002.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 3,
+      "text": "Deixe os braços repousar ao lado do corpo, palmas relaxadas.",
+      "file": "c003.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 4,
+      "text": "Feche os olhos.",
+      "file": "c004.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 5,
+      "text": "Não há outro lugar para estar.",
+      "file": "c005.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 6,
+      "text": "[pausa:23]",
+      "file": "c006.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 7,
+      "text": "Sinta os pontos de contato com o chão ou cama.",
+      "file": "c007.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 8,
+      "text": "Calcanhares. Quadril. Escápulas. Cabeça.",
+      "file": "c008.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 9,
+      "text": "Permita que o corpo seja sustentado.",
+      "file": "c009.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 10,
+      "text": "[pausa:23]",
+      "file": "c010.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 11,
+      "text": "Observe a respiração natural.",
+      "file": "c011.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 12,
+      "text": "Não há necessidade de alterá-la.",
+      "file": "c012.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 13,
+      "text": "A inspiração chega.",
+      "file": "c013.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 14,
+      "text": "A expiração sai.",
+      "file": "c014.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 15,
+      "text": "[pausa:25]",
+      "file": "c015.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 16,
+      "text": "Se a mente estiver ocupada, está permitido.",
+      "file": "c016.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 17,
+      "text": "Você pode descansar mesmo assim.",
+      "file": "c017.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 18,
+      "text": "Apenas continue retornando à sensação.",
+      "file": "c018.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 19,
+      "text": "[pausa:23]",
+      "file": "c019.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 20,
+      "text": "Traga a consciência para o pé direito.",
+      "file": "c020.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 21,
+      "text": "Unhas dos pés. Solado. Calcanhar.",
+      "file": "c021.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 22,
+      "text": "[pausa:21]",
+      "file": "c022.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 23,
+      "text": "Perna inferior direita.",
+      "file": "c023.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 24,
+      "text": "Joelho.",
+      "file": "c024.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 25,
+      "text": "Coxa.",
+      "file": "c025.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 26,
+      "text": "[pausa:21]",
+      "file": "c026.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 27,
+      "text": "Quadris direitos.",
+      "file": "c027.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 28,
+      "text": "Toda a perna direita, pesada e quieta.",
+      "file": "c028.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 29,
+      "text": "[pausa:23]",
+      "file": "c029.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 30,
+      "text": "Pé esquerdo.",
+      "file": "c030.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 31,
+      "text": "Unhas dos pés. Solado. Calcanhar.",
+      "file": "c031.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 32,
+      "text": "[pausa:21]",
+      "file": "c032.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 33,
+      "text": "Perna inferior esquerda.",
+      "file": "c033.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 34,
+      "text": "Joelho.",
+      "file": "c034.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 35,
+      "text": "Coxa.",
+      "file": "c035.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 36,
+      "text": "[pausa:21]",
+      "file": "c036.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 37,
+      "text": "Quadris esquerdos.",
+      "file": "c037.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 38,
+      "text": "Toda a perna esquerda, pesada e quieta.",
+      "file": "c038.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 39,
+      "text": "[pausa:23]",
+      "file": "c039.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 40,
+      "text": "Pélvis e baixo abdome.",
+      "file": "c040.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 41,
+      "text": "Macio.",
+      "file": "c041.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 42,
+      "text": "[pausa:21]",
+      "file": "c042.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 43,
+      "text": "Tórax subindo e descendo.",
+      "file": "c043.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 44,
+      "text": "Espaço do coração aberto e leve.",
+      "file": "c044.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 45,
+      "text": "[pausa:23]",
+      "file": "c045.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 46,
+      "text": "Mão direita.",
+      "file": "c046.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 47,
+      "text": "Dedos. Palma. Pulso.",
+      "file": "c047.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 48,
+      "text": "[pausa:14]",
+      "file": "c048.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 49,
+      "text": "Braço direito. Cotovelo. Ombro.",
+      "file": "c049.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 50,
+      "text": "[pausa:21]",
+      "file": "c050.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 51,
+      "text": "Mão esquerda.",
+      "file": "c051.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 52,
+      "text": "Dedos. Palma. Pulso.",
+      "file": "c052.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 53,
+      "text": "[pausa:14]",
+      "file": "c053.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 54,
+      "text": "Braço esquerdo. Cotovelo. Ombro.",
+      "file": "c054.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 55,
+      "text": "[pausa:23]",
+      "file": "c055.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 56,
+      "text": "Garganta relaxada.",
+      "file": "c056.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 57,
+      "text": "Mandíbula relaxada.",
+      "file": "c057.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 58,
+      "text": "Língua repousando.",
+      "file": "c058.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 59,
+      "text": "[pausa:21]",
+      "file": "c059.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 60,
+      "text": "Olhos repousando em suas órbitas.",
+      "file": "c060.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 61,
+      "text": "Testa lisa.",
+      "file": "c061.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 62,
+      "text": "Calota e coroa da cabeça.",
+      "file": "c062.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 63,
+      "text": "[pausa:23]",
+      "file": "c063.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 64,
+      "text": "Sinta todo o corpo como um campo de quietude.",
+      "file": "c064.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 65,
+      "text": "Respiração movendo-se por ele como uma maré silenciosa.",
+      "file": "c065.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 66,
+      "text": "[pausa:62]",
+      "file": "c066.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 67,
+      "text": "Permaneça com todo o corpo.",
+      "file": "c067.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 68,
+      "text": "[pausa:105]",
+      "file": "c068.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 69,
+      "text": "Suave. Espaçoso. Imóvel.",
+      "file": "c069.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 70,
+      "text": "[pausa:55]",
+      "file": "c070.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 71,
+      "text": "Se um pensamento aparecer, deixe-o passar como uma nuvem.",
+      "file": "c071.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 72,
+      "text": "[pausa:50]",
+      "file": "c072.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 73,
+      "text": "Volte à sensação de estar sendo sustentado.",
+      "file": "c073.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 74,
+      "text": "[pausa:55]",
+      "file": "c074.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 75,
+      "text": "Descanse aqui.",
+      "file": "c075.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 76,
+      "text": "Nada a resolver.",
+      "file": "c076.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 77,
+      "text": "Nada a concluir.",
+      "file": "c077.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 78,
+      "text": "[pausa:110]",
+      "file": "c078.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 79,
+      "text": "Se você se distrair, tudo bem.",
+      "file": "c079.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 80,
+      "text": "Se você permanecer consciente, também está tudo bem.",
+      "file": "c080.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 81,
+      "text": "Ambos são descanso.",
+      "file": "c081.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 82,
+      "text": "[pausa:130]",
+      "file": "c082.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 83,
+      "text": "Descanse.",
+      "file": "c083.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 84,
+      "text": "[pausa:115]",
+      "file": "c084.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 85,
+      "text": "Comece a notar a respiração novamente.",
+      "file": "c085.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 86,
+      "text": "Um pouco mais vívida agora.",
+      "file": "c086.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 87,
+      "text": "[pausa:23]",
+      "file": "c087.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 88,
+      "text": "Sinta o ambiente ao seu redor.",
+      "file": "c088.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 89,
+      "text": "Somos próximos e distantes.",
+      "file": "c089.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 90,
+      "text": "[pausa:21]",
+      "file": "c090.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 91,
+      "text": "Mova os dedos.",
+      "file": "c091.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 92,
+      "text": "Mova os dedos dos pés.",
+      "file": "c092.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 93,
+      "text": "Role os pulsos e tornozelos, se quiser.",
+      "file": "c093.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 94,
+      "text": "[pausa:21]",
+      "file": "c094.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 95,
+      "text": "Respire mais profundamente.",
+      "file": "c095.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 96,
+      "text": "E um longo suspiro de volta.",
+      "file": "c096.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 97,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c097.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 98,
+      "text": "Volte lentamente.",
+      "file": "c098.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 99,
+      "text": "Leve um pouco dessa quietude com você.",
+      "file": "c099.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

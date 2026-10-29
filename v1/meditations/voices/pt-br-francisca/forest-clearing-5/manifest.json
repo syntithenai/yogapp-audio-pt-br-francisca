@@ -1,0 +1,364 @@
+{
+  "id": "forest-clearing-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 358,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Encontre uma posição confortável, ou deite-se se isso for melhor.",
+      "file": "c001.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 2,
+      "text": "Deixe as mãos descansar.",
+      "file": "c002.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 3,
+      "text": "Permita que seus olhos se fechem, ou suavize o olhar.",
+      "file": "c003.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 4,
+      "text": "Perceba o peso do seu corpo sendo sustentado.",
+      "file": "c004.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 5,
+      "text": "Respire lentamente pelo nariz.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "E um sopro mais longo e fácil pela boca.",
+      "file": "c006.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 7,
+      "text": "Mais uma vez. Inalação suave.",
+      "file": "c007.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 8,
+      "text": "Exalação suave.",
+      "file": "c008.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 9,
+      "text": "Se os pensamentos vagarem, tudo bem. Volte à respiração.",
+      "file": "c009.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 10,
+      "text": "Agora, imagine um caminho sob uma camada macia de folhas.",
+      "file": "c010.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 11,
+      "text": "Você caminha sem pressa em uma floresta tranquila.",
+      "file": "c011.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 12,
+      "text": "A luz pontilhada move-se sobre seus antebraços.",
+      "file": "c012.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 13,
+      "text": "Sinta o calor suave do sol onde quer que encontre a pele.",
+      "file": "c013.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 14,
+      "text": "Uma frescura suave viaja na brisa entre as árvores.",
+      "file": "c014.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 15,
+      "text": "Sinta o cheiro da terra verde, da casca e de uma umidade mineral limpa.",
+      "file": "c015.ogg",
+      "durationSec": 8.808
+    },
+    {
+      "index": 16,
+      "text": "O caminho se abre em um pequeno claro.",
+      "file": "c016.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 17,
+      "text": "Musgo cobre um tronco caído. Você se senta.",
+      "file": "c017.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 18,
+      "text": "A luz do sol forma um charco no centro, como ouro silencioso.",
+      "file": "c018.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 19,
+      "text": "Sinta esse calor no seu rosto, lento e gentil.",
+      "file": "c019.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 20,
+      "text": "Uma brisa toca seus cabelos e refresca suas têmporas.",
+      "file": "c020.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 21,
+      "text": "O canto dos pássaros chega de longe, depois desaparece.",
+      "file": "c021.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 22,
+      "text": "Sua respiração combina com o silêncio das folhas.",
+      "file": "c022.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 23,
+      "text": "Inale a frescura. Exale qualquer pressa que reste.",
+      "file": "c023.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 24,
+      "text": "Perceba o quão seguro o chão parece sob você.",
+      "file": "c024.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 25,
+      "text": "Quão vasto o céu parece acima da copa das árvores.",
+      "file": "c025.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 26,
+      "text": "Um besouro atravessa um trecho de casca iluminado pelo sol, sem pressa.",
+      "file": "c026.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 27,
+      "text": "Você não tem lugar algum para estar além de aqui.",
+      "file": "c027.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 28,
+      "text": "O calor forma novamente um charco sobre suas pálpebras fechadas.",
+      "file": "c028.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 29,
+      "text": "O ar fresco desliza sob sua gola como uma mão gentil.",
+      "file": "c029.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 30,
+      "text": "Permaneça com o calor em suas bochechas.",
+      "file": "c030.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 31,
+      "text": "Permaneça com o ar fresco em seus lábios enquanto expira.",
+      "file": "c031.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 32,
+      "text": "Esse claro não pede nada. Ele simplesmente te acolhe.",
+      "file": "c032.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 33,
+      "text": "Deixe uma respiração mais viajar até a barriga.",
+      "file": "c033.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 34,
+      "text": "E sair novamente, suave como as folhas.",
+      "file": "c034.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 35,
+      "text": "Deixe sua atenção vagar lentamente pela borda do claro.",
+      "file": "c035.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 36,
+      "text": "Samambaia. Sombra. Um cogumelo pálido na base de um toco.",
+      "file": "c036.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 37,
+      "text": "Tudo é vívido porque você não está correndo.",
+      "file": "c037.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 38,
+      "text": "Sinta o calor do sol novamente onde ele toca o joelho.",
+      "file": "c038.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 39,
+      "text": "Sinta a frescura da brisa onde ela desliza pelo pescoço.",
+      "file": "c039.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 40,
+      "text": "Você poderia ficar aqui a tarde inteira. Por enquanto, algumas respirações são suficientes.",
+      "file": "c040.ogg",
+      "durationSec": 11.16
+    },
+    {
+      "index": 41,
+      "text": "Agora repouse apenas na respiração por um tempo.",
+      "file": "c041.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 42,
+      "text": "Inale lentamente.",
+      "file": "c042.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 43,
+      "text": "Exale lentamente.",
+      "file": "c043.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 44,
+      "text": "Inale.",
+      "file": "c044.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 45,
+      "text": "Exale.",
+      "file": "c045.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 46,
+      "text": "Sinta o calor onde quer que o corpo esteja quente.",
+      "file": "c046.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 47,
+      "text": "Sinta a frescura onde quer que o ar esteja frio.",
+      "file": "c047.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 48,
+      "text": "Inale.",
+      "file": "c048.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 49,
+      "text": "Exale.",
+      "file": "c049.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 50,
+      "text": "Nenhum lugar para ir. Nada para consertar.",
+      "file": "c050.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 51,
+      "text": "Inale.",
+      "file": "c051.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 52,
+      "text": "Exale.",
+      "file": "c052.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 53,
+      "text": "Descanse aqui por algumas respirações tranquilas.",
+      "file": "c053.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 54,
+      "text": "Saiba que você pode voltar a este lugar a qualquer momento.",
+      "file": "c054.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 55,
+      "text": "Quando estiver pronto, aprofunde a respiração.",
+      "file": "c055.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 56,
+      "text": "Mova os dedos das mãos e dos pés.",
+      "file": "c056.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 57,
+      "text": "Abra os olhos suavemente.",
+      "file": "c057.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 58,
+      "text": "Leve um pouco dessa paz com você.",
+      "file": "c058.ogg",
+      "durationSec": 4.8
+    }
+  ]
+}

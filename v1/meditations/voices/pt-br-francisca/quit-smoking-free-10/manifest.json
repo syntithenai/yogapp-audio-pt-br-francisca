@@ -1,0 +1,352 @@
+{
+  "id": "quit-smoking-free-10",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 298,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Esta prática é para você como um não fumante.",
+      "file": "c001.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 2,
+      "text": "Encontre uma posição confortável, ou deite-se se isso parecer melhor.",
+      "file": "c002.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 3,
+      "text": "Deixe as mãos em repouso.",
+      "file": "c003.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 4,
+      "text": "Amoleça os olhos, ou feche-os.",
+      "file": "c004.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 5,
+      "text": "Respire lentamente pelo nariz.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "E expire por um tempo mais longo.",
+      "file": "c006.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 7,
+      "text": "[pausa:16]",
+      "file": "c007.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 8,
+      "text": "Sinta o corpo apoiado.",
+      "file": "c008.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 9,
+      "text": "Nada a provar. Nenhum lugar para correr.",
+      "file": "c009.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 10,
+      "text": "[pausa:16]",
+      "file": "c010.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 11,
+      "text": "Trabalharemos com afirmações claras de liberdade.",
+      "file": "c011.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 12,
+      "text": "Ouça, ou repita silenciosamente o que for verdadeiro.",
+      "file": "c012.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 13,
+      "text": "[pausa:18]",
+      "file": "c013.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 14,
+      "text": "Sou um não fumante agora.",
+      "file": "c014.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 15,
+      "text": "[pausa:16]",
+      "file": "c015.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 16,
+      "text": "Estou muito feliz por me livrar da doença da nicotina.",
+      "file": "c016.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 17,
+      "text": "[pausa:18]",
+      "file": "c017.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 18,
+      "text": "Fumar não faz mais parte da minha vida ou da minha identidade.",
+      "file": "c018.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 19,
+      "text": "[pausa:18]",
+      "file": "c019.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 20,
+      "text": "Estou recebendo esses gatilhos por causa de memórias do passado ou ao ver outros fumantes.",
+      "file": "c020.ogg",
+      "durationSec": 10.416
+    },
+    {
+      "index": 21,
+      "text": "[pausa:18]",
+      "file": "c021.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 22,
+      "text": "Esses gatilhos não podem me afetar, porque já liberei-me da escravidão da adição.",
+      "file": "c022.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 23,
+      "text": "[pausa:22]",
+      "file": "c023.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 24,
+      "text": "Sinto pena dos fumantes que ainda estão presos às suas ilusões de fumar.",
+      "file": "c024.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 25,
+      "text": "Quem está aprisionado no miserável ciclo da desnutrição do nicotina, da vontade e do reabastecimento.",
+      "file": "c025.ogg",
+      "durationSec": 11.832
+    },
+    {
+      "index": 26,
+      "text": "[pausa:18]",
+      "file": "c026.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 27,
+      "text": "Não sofro mais como eles.",
+      "file": "c027.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 28,
+      "text": "[pausa:14]",
+      "file": "c028.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 29,
+      "text": "Agora eu sei a verdade.",
+      "file": "c029.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 30,
+      "text": "Não há absolutamente nenhum benefício no fumar.",
+      "file": "c030.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 31,
+      "text": "[pausa:18]",
+      "file": "c031.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 32,
+      "text": "O teste de urina nunca ajudou ninguém, e jamais o fará.",
+      "file": "c032.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 33,
+      "text": "[pausa:18]",
+      "file": "c033.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 34,
+      "text": "Fumar criou muitos problemas para mim.",
+      "file": "c034.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 35,
+      "text": "[pausa:14]",
+      "file": "c035.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 36,
+      "text": "Tomei a melhor decisão da minha vida: nunca mais fumar um único puf desse veneno repugnante.",
+      "file": "c036.ogg",
+      "durationSec": 10.704
+    },
+    {
+      "index": 37,
+      "text": "Essa decisão foi definitiva.",
+      "file": "c037.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 38,
+      "text": "[pausa:22]",
+      "file": "c038.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 39,
+      "text": "Agora, respeito a Lei do Fumar.",
+      "file": "c039.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 40,
+      "text": "[pausa:18]",
+      "file": "c040.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 41,
+      "text": "Agora, todas as minhas situações estão melhorando.",
+      "file": "c041.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 42,
+      "text": "Estou me tornando mais feliz, saudável e confiante.",
+      "file": "c042.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 43,
+      "text": "[pausa:22]",
+      "file": "c043.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 44,
+      "text": "Sou livre.",
+      "file": "c044.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 45,
+      "text": "[pausa:28]",
+      "file": "c045.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 46,
+      "text": "Descanse nessa liberdade por alguns momentos.",
+      "file": "c046.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 47,
+      "text": "Gatilhos ainda podem aparecer como memória antiga.",
+      "file": "c047.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 48,
+      "text": "Eles não podem levá-lo de volta à escravidão.",
+      "file": "c048.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 49,
+      "text": "[pausa:36]",
+      "file": "c049.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 50,
+      "text": "Sou um não fumante agora.",
+      "file": "c050.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 51,
+      "text": "Sou livre.",
+      "file": "c051.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 52,
+      "text": "[pausa:28]",
+      "file": "c052.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 53,
+      "text": "Respire mais uma vez com calma.",
+      "file": "c053.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 54,
+      "text": "Mova os dedos.",
+      "file": "c054.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 55,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c055.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 56,
+      "text": "Leve essa liberdade com você.",
+      "file": "c056.ogg",
+      "durationSec": 4.512
+    }
+  ]
+}

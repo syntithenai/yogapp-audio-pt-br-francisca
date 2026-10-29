@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "pt-br-francisca.zip", "bytes": 59732631, "sha256": "2a49bf51edf89a69ed1730193cb7cb346e27ca00c7b904d34aa9f750282ea332"}
+  ]
+}

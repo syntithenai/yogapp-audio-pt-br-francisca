@@ -1,0 +1,238 @@
+{
+  "id": "forgiveness-soft-10",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 188,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Tome tempo para chegar.",
+      "file": "c001.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 2,
+      "text": "Sente-se ou deite-se com apoio.",
+      "file": "c002.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 3,
+      "text": "Feche os olhos se isso parecer seguro.",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "Sinta o contato com o chão.",
+      "file": "c004.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 5,
+      "text": "Respiração lenta de entrada.",
+      "file": "c005.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 6,
+      "text": "Respiração longa de saída.",
+      "file": "c006.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 7,
+      "text": "[pausa:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 8,
+      "text": "Novamente.",
+      "file": "c008.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 9,
+      "text": "[pausa:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 10,
+      "text": "Deixe os ombros baixarem.",
+      "file": "c010.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 11,
+      "text": "Deixe a barriga amolecer.",
+      "file": "c011.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 12,
+      "text": "[pausa:34]",
+      "file": "c012.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 13,
+      "text": "Perdão aqui significa liberar seu próprio punho cerrado.",
+      "file": "c013.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 14,
+      "text": "Não é fingir que o dano não importou.",
+      "file": "c014.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 15,
+      "text": "[pausa:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 16,
+      "text": "Comece com algo pequeno que você guarda contra si mesmo.",
+      "file": "c016.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 17,
+      "text": "Um erro. Uma falha.",
+      "file": "c017.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 18,
+      "text": "[pausa:34]",
+      "file": "c018.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 19,
+      "text": "Silenciosamente: Perdoei a mim mesmo por ser humano.",
+      "file": "c019.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 20,
+      "text": "Liberto o que já não preciso carregar.",
+      "file": "c020.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 21,
+      "text": "[pausa:54]",
+      "file": "c021.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 22,
+      "text": "Se sentir certo, traga à mente uma dificuldade leve com outra pessoa.",
+      "file": "c022.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 23,
+      "text": "Não a história mais difícil. Uma mais leve.",
+      "file": "c023.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 24,
+      "text": "[pausa:34]",
+      "file": "c024.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 25,
+      "text": "Eu libero o que posso.",
+      "file": "c025.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 26,
+      "text": "Eu mantenho meus limites. Eu coloco de lado o peso extra.",
+      "file": "c026.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 27,
+      "text": "[pausa:54]",
+      "file": "c027.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 28,
+      "text": "Respire nos lugares que estavam tensos.",
+      "file": "c028.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 29,
+      "text": "[pausa:68]",
+      "file": "c029.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 30,
+      "text": "Descanse no espaço que se abre quando o punho se amacia.",
+      "file": "c030.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 31,
+      "text": "[pausa:81]",
+      "file": "c031.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 32,
+      "text": "[pausa:41]",
+      "file": "c032.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 33,
+      "text": "Comece a aprofundar a respiração.",
+      "file": "c033.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 34,
+      "text": "Sinta novamente o ambiente.",
+      "file": "c034.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 35,
+      "text": "Mova os dedos das mãos e dos pés.",
+      "file": "c035.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 36,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c036.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 37,
+      "text": "Mova-se lentamente para o que vem a seguir.",
+      "file": "c037.ogg",
+      "durationSec": 5.376
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "id": "sound-listening-10",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 176,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Tome tempo para chegar.",
+      "file": "c001.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 2,
+      "text": "Sente-se ou deite-se com apoio.",
+      "file": "c002.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 3,
+      "text": "Feche os olhos se isso parecer seguro.",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "Sinta o contato com o chão.",
+      "file": "c004.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 5,
+      "text": "Respiração lenta por nariz.",
+      "file": "c005.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 6,
+      "text": "Exala mais longa.",
+      "file": "c006.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 7,
+      "text": "[pausa:23]",
+      "file": "c007.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 8,
+      "text": "Novamente.",
+      "file": "c008.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 9,
+      "text": "[pausa:23]",
+      "file": "c009.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 10,
+      "text": "Deixe os ombros caírem.",
+      "file": "c010.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 11,
+      "text": "Deixe a barriga amolecer.",
+      "file": "c011.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 12,
+      "text": "[pausa:29]",
+      "file": "c012.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 13,
+      "text": "Abra os ouvidos.",
+      "file": "c013.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 14,
+      "text": "Perceba o som mais próximo.",
+      "file": "c014.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 15,
+      "text": "[pausa:29]",
+      "file": "c015.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 16,
+      "text": "Perceba o som mais distante que você consegue ouvir.",
+      "file": "c016.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 17,
+      "text": "[pausa:29]",
+      "file": "c017.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 18,
+      "text": "Perceba o silêncio entre os sons.",
+      "file": "c018.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 19,
+      "text": "[pausa:35]",
+      "file": "c019.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 20,
+      "text": "Os sons surgem e passam. Você não precisa nomeá-los.",
+      "file": "c020.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 21,
+      "text": "O ouvir ouve.",
+      "file": "c021.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 22,
+      "text": "[pausa:47]",
+      "file": "c022.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 23,
+      "text": "Quando a mente se desviar, volte a ouvir.",
+      "file": "c023.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 24,
+      "text": "[pausa:35]",
+      "file": "c024.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 25,
+      "text": "Inclua o som da sua própria respiração.",
+      "file": "c025.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 26,
+      "text": "[pausa:35]",
+      "file": "c026.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 27,
+      "text": "Descanse na paisagem sonora inteira.",
+      "file": "c027.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 28,
+      "text": "Um campo vivo de vibração.",
+      "file": "c028.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 29,
+      "text": "[pausa:90]",
+      "file": "c029.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 30,
+      "text": "Nada a resolver no ouvir.",
+      "file": "c030.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 31,
+      "text": "[pausa:70]",
+      "file": "c031.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 32,
+      "text": "[pausa:35]",
+      "file": "c032.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 33,
+      "text": "Comece a aprofundar a respiração.",
+      "file": "c033.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 34,
+      "text": "Descanse aqui.",
+      "file": "c034.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 35,
+      "text": "[pausa:27]",
+      "file": "c035.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 36,
+      "text": "Sinta novamente a sala.",
+      "file": "c036.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 37,
+      "text": "Mova os dedos das mãos e dos pés.",
+      "file": "c037.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 38,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c038.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 39,
+      "text": "Mova-se lentamente para o que vier a seguir.",
+      "file": "c039.ogg",
+      "durationSec": 5.568
+    }
+  ]
+}

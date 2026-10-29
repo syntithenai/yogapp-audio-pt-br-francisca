@@ -1,0 +1,190 @@
+{
+  "id": "confidence-5",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 147,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Encontre uma posição confortável, ou deite-se se isso parecer melhor.",
+      "file": "c001.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 2,
+      "text": "Deixe as mãos em repouso.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "Suavize os olhos, ou feche-os.",
+      "file": "c003.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 4,
+      "text": "Respire lentamente pela narina.",
+      "file": "c004.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 5,
+      "text": "E expire por um tempo mais longo.",
+      "file": "c005.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 6,
+      "text": "Sinta os ossos isquiáticos, ou os pés.",
+      "file": "c006.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 7,
+      "text": "Uma base estável abaixo de você.",
+      "file": "c007.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 8,
+      "text": "[pausa:22]",
+      "file": "c008.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 9,
+      "text": "Alongue a coluna sem endurecer.",
+      "file": "c009.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 10,
+      "text": "Rosto suave. Barriga suave. Centro forte.",
+      "file": "c010.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 11,
+      "text": "[pausa:22]",
+      "file": "c011.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 12,
+      "text": "Tente silenciosamente essas frases, ou apenas ouça.",
+      "file": "c012.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 13,
+      "text": "Posso enfrentar o que é meu para enfrentar.",
+      "file": "c013.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 14,
+      "text": "[pausa:22]",
+      "file": "c014.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 15,
+      "text": "Não preciso me apressar no meu tornar.",
+      "file": "c015.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 16,
+      "text": "[pausa:22]",
+      "file": "c016.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 17,
+      "text": "Confio no meu próximo passo honesto.",
+      "file": "c017.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 18,
+      "text": "[pausa:28]",
+      "file": "c018.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 19,
+      "text": "Respire confiança como calor no peito, não como armadura.",
+      "file": "c019.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 20,
+      "text": "[pausa:28]",
+      "file": "c020.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 21,
+      "text": "Veja-se lidando com um desafio comum com firmeza.",
+      "file": "c021.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 22,
+      "text": "[pausa:33]",
+      "file": "c022.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 23,
+      "text": "Volte à respiração.",
+      "file": "c023.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 24,
+      "text": "Firme. O suficiente.",
+      "file": "c024.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 25,
+      "text": "[pausa:28]",
+      "file": "c025.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 26,
+      "text": "Dê mais uma respiração fácil.",
+      "file": "c026.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 27,
+      "text": "Mova os dedos.",
+      "file": "c027.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 28,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c028.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 29,
+      "text": "Leve um pouco disso com você.",
+      "file": "c029.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

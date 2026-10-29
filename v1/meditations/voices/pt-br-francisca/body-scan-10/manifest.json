@@ -1,0 +1,274 @@
+{
+  "id": "body-scan-10",
+  "voiceId": "pt-br-francisca",
+  "edgeVoice": "pt-BR-FranciscaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 214,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bem-vindo.",
+      "file": "c000.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 1,
+      "text": "Tome tempo para chegar.",
+      "file": "c001.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 2,
+      "text": "Sente-se ou deite-se com apoio.",
+      "file": "c002.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 3,
+      "text": "Feche os olhos se isso parecer seguro.",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "Sinta o contato com o chão.",
+      "file": "c004.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 5,
+      "text": "Respiração lenta por nariz.",
+      "file": "c005.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 6,
+      "text": "Respiração mais longa ao expirar.",
+      "file": "c006.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 7,
+      "text": "[pausa:21]",
+      "file": "c007.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 8,
+      "text": "Novamente.",
+      "file": "c008.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 9,
+      "text": "[pausa:21]",
+      "file": "c009.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 10,
+      "text": "Deixe os ombros descerem.",
+      "file": "c010.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 11,
+      "text": "Deixe a barriga amolecer.",
+      "file": "c011.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 12,
+      "text": "[pausa:27]",
+      "file": "c012.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 13,
+      "text": "Comece pela coroa da cabeça.",
+      "file": "c013.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 14,
+      "text": "Observe a sensação, ou a falta dela.",
+      "file": "c014.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 15,
+      "text": "[pausa:27]",
+      "file": "c015.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 16,
+      "text": "Testa. Olhos. Bochechas. Maxilar.",
+      "file": "c016.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 17,
+      "text": "Deixe o rosto derreter um pouco.",
+      "file": "c017.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 18,
+      "text": "[pausa:27]",
+      "file": "c018.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 19,
+      "text": "Garganta. Pescoço. Ombros.",
+      "file": "c019.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 20,
+      "text": "Convide os ombros a descerem.",
+      "file": "c020.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 21,
+      "text": "[pausa:32]",
+      "file": "c021.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 22,
+      "text": "Braços. Cotovelos. Pulso. Mãos. Dedos.",
+      "file": "c022.ogg",
+      "durationSec": 8.88
+    },
+    {
+      "index": 23,
+      "text": "[pausa:32]",
+      "file": "c023.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 24,
+      "text": "Tórax subindo e descendo.",
+      "file": "c024.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 25,
+      "text": "Espaço do coração suave.",
+      "file": "c025.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 26,
+      "text": "[pausa:27]",
+      "file": "c026.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 27,
+      "text": "Barriga. Lombar. Quadril.",
+      "file": "c027.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 28,
+      "text": "[pausa:32]",
+      "file": "c028.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 29,
+      "text": "Coxas. Joelhos. Panturrilhas. Tornozelos. Pés. Dedos.",
+      "file": "c029.ogg",
+      "durationSec": 11.064
+    },
+    {
+      "index": 30,
+      "text": "[pausa:38]",
+      "file": "c030.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 31,
+      "text": "Sinta todo o corpo como um único campo.",
+      "file": "c031.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 32,
+      "text": "A respiração movendo-se por ele.",
+      "file": "c032.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 33,
+      "text": "[pausa:54]",
+      "file": "c033.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 34,
+      "text": "Se um ponto tenso permanecer, envie uma expiração para lá.",
+      "file": "c034.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 35,
+      "text": "[pausa:43]",
+      "file": "c035.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 36,
+      "text": "Descanse na consciência do corpo inteiro.",
+      "file": "c036.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 37,
+      "text": "[pausa:81]",
+      "file": "c037.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 38,
+      "text": "[pausa:32]",
+      "file": "c038.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 39,
+      "text": "Comece a aprofundar a respiração.",
+      "file": "c039.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 40,
+      "text": "Sinta novamente o ambiente.",
+      "file": "c040.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 41,
+      "text": "Mova os dedos das mãos e dos pés.",
+      "file": "c041.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 42,
+      "text": "Quando estiver pronto, abra os olhos.",
+      "file": "c042.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 43,
+      "text": "Mova-se lentamente para o que vem a seguir.",
+      "file": "c043.ogg",
+      "durationSec": 5.376
+    }
+  ]
+}
